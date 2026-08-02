@@ -1,0 +1,543 @@
+food_code,food_name,scientific_name,food_group,regions_measured,energy_kcal,water_g,protein_g,fat_g,carbohydrate_g,fiber_g,iron_mg,calcium_mg,zinc_mg,magnesium_mg,phosphorus_mg,potassium_mg,sodium_mg,vitamin_c_mg,thiamine_b1_mg,riboflavin_b2_mg,niacin_b3_mg,vitamin_b6_mg,folate_b9_ug,vitamin_a_retinol_ug,vitamin_d_ug,vitamin_e_mg,vitamin_k1_ug,vitamin_b12_ug
+A001,"Amaranth seed, black",Amaranthus cruentus,Cereals and Millets,1,356.1,9.89,14.59,5.74,59.98,7.02,9.33,181.0,2.66,325.0,374.0,433.0,2.7,0.0,0.04,0.04,0.45,0.5,27.44,0.0,58.67,0.05,1.8,not measured in IFCT 2017
+A002,"Amaranth seed, pale brown",Amaranthus cruentus,Cereals and Millets,6,355.9,9.2,13.27,5.56,61.46,7.47,8.02,162.0,2.52,270.0,412.0,413.0,2.81,0.0,0.04,0.04,0.52,0.33,24.65,0.0,53.98,0.06,2.5,not measured in IFCT 2017
+A003,Bajra,Pennisetum typhoideum,Cereals and Millets,6,348.0,8.97,10.96,5.43,61.78,11.49,6.42,27.35,2.76,124.0,289.0,365.0,4.11,0.0,0.25,0.2,0.86,0.27,36.11,0.0,5.65,0.1,2.85,not measured in IFCT 2017
+A004,Barley,Hordeum vulgare,Cereals and Millets,6,315.7,9.77,10.94,1.3,61.29,15.64,1.56,28.64,1.5,48.97,178.0,268.0,7.56,0.0,0.36,0.18,2.84,0.31,31.58,0.0,0.0,0.01,1.85,not measured in IFCT 2017
+A005,Jowar,Sorghum vulgare,Cereals and Millets,6,334.1,9.01,9.97,1.73,67.68,10.22,3.95,27.6,1.96,133.0,274.0,328.0,5.42,0.0,0.35,0.14,2.1,0.28,39.42,0.0,3.96,0.04,43.82,not measured in IFCT 2017
+A006,"Maize, dry",Zea mays,Cereals and Millets,6,334.1,9.26,8.8,3.77,64.77,12.24,2.49,8.91,2.27,145.0,279.0,291.0,4.44,0.0,0.33,0.09,2.69,0.34,25.81,0.0,33.6,0.21,2.5,not measured in IFCT 2017
+A007,"Maize, tender, local",Zea mays,Cereals and Millets,6,120.0,68.29,3.57,1.4,22.69,3.67,0.71,6.35,0.97,47.62,163.0,167.0,2.24,4.26,0.17,0.12,1.13,0.45,62.96,0.0,42.34,0.05,2.0,not measured in IFCT 2017
+A008,"Maize, tender, sweet",Zea mays,Cereals and Millets,4,96.8,74.4,4.16,1.35,16.42,3.3,0.54,6.37,0.77,36.51,121.0,297.0,2.23,5.72,0.1,0.14,1.14,0.38,59.71,0.0,16.94,0.07,1.8,not measured in IFCT 2017
+A009,Quinoa,Chenopodium quinoa,Cereals and Millets,1,328.4,10.43,13.11,5.5,53.65,14.66,7.51,198.0,3.31,119.0,212.0,474.0,4.5,0.0,0.83,0.22,1.7,0.21,173.0,0.0,0.0,2.08,2.0,not measured in IFCT 2017
+A010,Ragi,Eleusine coracana,Cereals and Millets,5,320.7,10.89,7.16,1.92,66.82,11.18,4.62,364.0,2.53,146.0,210.0,443.0,4.75,0.0,0.37,0.17,1.34,0.05,34.66,0.0,41.46,0.09,3.0,not measured in IFCT 2017
+A011,"Rice, flakes",Oryza sativa,Cereals and Millets,6,353.7,10.36,7.44,1.14,76.75,3.46,4.46,9.19,1.49,77.92,195.0,148.0,2.58,0.0,0.12,0.04,1.6,0.02,8.46,0.0,0.0,0.05,1.0,not measured in IFCT 2017
+A012,"Rice, puffed",Oryza sativa,Cereals and Millets,6,361.9,9.4,7.47,1.62,77.68,2.56,4.55,15.09,1.45,64.59,152.0,140.0,3.69,0.0,0.11,0.04,1.87,0.07,0.0,0.0,0.0,0.04,1.0,not measured in IFCT 2017
+A013,"Rice, raw, brown",Oryza sativa,Cereals and Millets,6,353.7,9.33,9.16,1.24,74.8,4.43,1.02,10.93,1.68,93.91,267.0,199.0,3.64,0.0,0.27,0.06,3.4,0.37,11.51,0.0,0.0,0.62,2.0,not measured in IFCT 2017
+A014,"Rice, parboiled, milled",Oryza sativa,Cereals and Millets,6,351.6,10.09,7.81,0.55,77.16,3.74,0.72,8.11,1.08,26.72,140.0,142.0,3.16,0.0,0.17,0.06,2.51,0.22,9.75,0.0,0.0,0.06,1.5,not measured in IFCT 2017
+A015,"Rice, raw, milled",Oryza sativa,Cereals and Millets,6,356.4,9.93,7.94,0.52,78.24,2.81,0.65,7.49,1.21,19.3,96.0,108.0,2.34,0.0,0.05,0.05,1.69,0.12,9.32,0.0,0.0,0.04,1.5,not measured in IFCT 2017
+A016,Samai,Panicum sumatrense,Cereals and Millets,6,346.3,11.36,10.13,3.89,65.55,7.72,1.26,16.06,1.82,91.41,130.0,105.0,4.77,0.0,0.26,0.05,1.29,0.04,36.2,0.0,3.75,0.28,4.47,not measured in IFCT 2017
+A017,Varagu,Setaria italica,Cereals and Millets,5,331.7,14.23,8.92,2.55,66.19,6.39,2.34,15.27,1.65,122.0,101.0,94.0,3.35,0.0,0.29,0.2,1.49,0.07,39.49,0.0,0.0,0.03,3.75,not measured in IFCT 2017
+A018,"Wheat flour, refined",Triticum aestivum,Cereals and Millets,6,351.8,11.34,10.36,0.76,74.27,2.76,1.77,20.4,0.88,30.69,110.0,148.0,1.54,0.0,0.15,0.06,0.77,0.08,16.25,0.0,6.73,0.05,1.0,not measured in IFCT 2017
+A019,"Wheat flour, atta",Triticum aestivum,Cereals and Millets,6,320.3,11.1,10.57,1.53,64.17,11.36,4.1,30.94,2.85,125.0,315.0,311.0,2.04,0.0,0.42,0.15,2.37,0.25,29.22,0.0,13.43,0.21,1.5,not measured in IFCT 2017
+A020,"Wheat, whole",Triticum aestivum,Cereals and Millets,6,321.9,10.58,10.59,1.47,64.72,11.23,3.97,39.36,2.85,125.0,315.0,366.0,2.5,0.0,0.46,0.15,2.68,0.26,30.09,0.0,17.49,0.6,1.75,not measured in IFCT 2017
+A021,"Wheat, bulgur",Triticum aestivum,Cereals and Millets,6,341.8,8.61,10.84,1.45,69.06,8.81,3.86,27.09,1.97,116.0,245.0,330.0,2.09,0.0,0.24,0.12,2.05,0.24,26.3,0.0,6.27,0.2,1.5,not measured in IFCT 2017
+A022,"Wheat, semolina",Triticum aestivum,Cereals and Millets,6,333.7,8.94,11.38,0.74,68.43,9.72,2.98,29.38,2.13,37.89,119.0,284.0,2.31,0.0,0.29,0.04,1.13,0.11,25.68,0.0,8.19,0.16,1.2,not measured in IFCT 2017
+A023,"Wheat, vermicelli",Triticum aestivum,Cereals and Millets,6,332.7,9.59,9.7,0.45,70.39,9.28,2.02,19.42,0.83,34.18,99.0,163.0,2.71,0.0,0.13,0.01,0.86,0.03,14.35,0.0,4.06,0.03,1.0,not measured in IFCT 2017
+A024,"Wheat, vermicelli, roasted",Triticum aestivum,Cereals and Millets,6,340.1,7.61,10.37,0.49,71.42,9.55,2.09,22.63,0.88,39.03,107.0,177.0,3.43,0.0,0.12,0.01,0.67,0.03,13.21,0.0,3.21,0.01,1.0,not measured in IFCT 2017
+B001,"Bengal gram, dal",Cicer arietinum,Grain Legumes,6,329.1,9.18,21.55,5.31,46.72,15.15,6.08,46.32,3.65,118.0,325.0,957.0,20.83,0.0,0.35,0.15,1.87,0.19,182.0,0.0,1.75,0.08,1.5,not measured in IFCT 2017
+B002,"Bengal gram, whole",Cicer arietinum,Grain Legumes,6,287.0,8.56,18.77,5.11,39.56,25.22,6.78,150.0,3.37,160.0,267.0,935.0,26.56,0.0,0.37,0.24,2.1,0.36,233.0,0.0,1.93,1.59,2.1,not measured in IFCT 2017
+B003,"Black gram, dal",Phaseolus mungo,Grain Legumes,6,324.1,9.16,23.06,1.69,51.0,11.93,4.67,55.67,3.0,173.0,375.0,1157.0,18.88,0.0,0.21,0.09,1.76,0.22,88.75,0.0,8.42,0.04,8.3,not measured in IFCT 2017
+B004,"Black gram, whole",Phaseolus mungo,Grain Legumes,6,291.3,8.7,21.97,1.58,43.99,20.41,5.97,86.18,3.05,190.0,345.0,1093.0,26.8,0.0,0.32,0.11,1.85,0.53,134.0,0.0,16.84,0.09,10.8,not measured in IFCT 2017
+B005,"Cowpea, brown",Vigna catjang,Grain Legumes,6,320.3,9.42,20.36,1.15,54.62,11.54,5.9,81.73,3.41,213.0,372.0,1241.0,13.68,0.0,0.33,0.09,1.64,0.3,231.0,0.0,0.92,0.33,1.75,not measured in IFCT 2017
+B006,"Cowpea, white",Vigna catjang,Grain Legumes,1,320.3,9.32,21.25,1.14,53.77,11.7,5.04,84.1,3.57,213.0,378.0,1243.0,12.52,0.0,0.34,0.09,1.51,0.26,249.0,0.0,0.93,0.32,1.7,not measured in IFCT 2017
+B007,"Field bean, black",Phaseolus vulgaris,Grain Legumes,1,276.1,9.57,19.93,0.92,43.46,23.4,4.5,78.16,2.42,197.0,457.0,1272.0,1.35,0.0,0.35,0.07,1.88,0.35,291.0,0.0,4.35,0.24,21.5,not measured in IFCT 2017
+B008,"Field bean, brown",Phaseolus vulgaris,Grain Legumes,1,283.0,8.74,19.9,0.98,45.24,22.4,4.99,75.2,2.44,173.0,429.0,1245.0,1.41,0.0,0.32,0.07,2.04,0.37,292.0,0.0,4.24,0.25,20.7,not measured in IFCT 2017
+B009,"Field bean, white",Phaseolus vulgaris,Grain Legumes,5,280.4,8.61,19.84,0.94,44.53,22.99,5.5,77.24,2.8,190.0,448.0,1360.0,1.7,0.0,0.37,0.07,1.96,0.38,289.0,0.0,4.26,0.25,22.65,not measured in IFCT 2017
+B010,"Green gram, dal",Vigna radiata,Grain Legumes,6,325.8,9.77,23.88,1.35,52.59,9.37,3.93,43.13,2.49,155.0,416.0,1268.0,10.14,0.0,0.35,0.12,1.84,0.19,92.11,0.0,2.05,0.06,8.3,not measured in IFCT 2017
+B011,"Green gram, whole",Vigna radiata,Grain Legumes,6,293.7,9.95,22.53,1.14,46.13,17.04,4.89,92.43,2.67,198.0,353.0,1177.0,12.48,0.0,0.45,0.27,2.16,0.35,145.0,0.0,3.15,0.13,12.63,not measured in IFCT 2017
+B012,"Horse gram, whole",Dolicus biflorus,Grain Legumes,6,329.6,9.28,21.73,0.62,57.24,7.88,8.76,269.0,2.71,152.0,298.0,1065.0,12.14,0.0,0.32,0.24,1.82,0.21,163.0,0.0,1.8,0.06,10.24,not measured in IFCT 2017
+B013,"Lentil, dal",Lens culinaris,Grain Legumes,6,322.4,9.71,24.35,0.75,52.53,10.43,7.06,44.32,3.61,74.69,310.0,786.0,10.27,0.0,0.34,0.16,1.81,0.18,49.99,0.0,1.31,0.02,3.75,not measured in IFCT 2017
+B014,"Lentil, whole, brown",Lens culinaris,Grain Legumes,6,299.0,9.2,22.49,0.64,48.47,16.82,7.57,76.13,3.6,101.0,274.0,756.0,11.2,0.0,0.4,0.22,2.54,0.46,132.0,0.0,14.52,0.03,7.27,not measured in IFCT 2017
+B015,"Lentil, whole, yellowish",Lens culinaris,Grain Legumes,2,297.8,9.75,22.87,0.61,47.91,16.66,7.91,76.66,3.31,86.38,261.0,764.0,10.87,0.0,0.42,0.22,2.56,0.47,121.0,0.0,17.68,0.03,5.25,not measured in IFCT 2017
+B016,Moth bean,Vigna aconitifolia,Grain Legumes,6,308.6,8.14,19.75,1.76,52.09,15.12,7.9,154.0,1.92,205.0,362.0,1356.0,26.34,0.0,0.45,0.09,1.87,0.16,349.0,0.0,9.77,0.29,22.75,not measured in IFCT 2017
+B017,"Peas, dry",Pisum sativum,Grain Legumes,6,303.3,9.33,20.43,1.89,48.93,17.01,5.09,75.11,3.1,123.0,334.0,922.0,23.4,0.0,0.56,0.16,2.69,0.26,110.0,0.0,15.21,0.07,11.45,not measured in IFCT 2017
+B018,"Rajmah, black",Phaseolus vulgaris,Grain Legumes,2,298.0,8.69,19.01,1.62,49.59,17.74,6.17,134.0,3.08,160.0,386.0,1362.0,9.4,0.0,0.21,0.19,2.61,0.23,332.0,0.0,27.98,0.05,5.05,not measured in IFCT 2017
+B019,"Rajmah, brown",Phaseolus vulgaris,Grain Legumes,6,297.6,9.68,19.5,1.68,48.83,16.95,6.3,134.0,2.6,164.0,396.0,1366.0,10.47,0.0,0.26,0.21,2.37,0.21,330.0,0.0,25.82,0.08,5.5,not measured in IFCT 2017
+B020,"Rajmah, red",Phaseolus vulgaris,Grain Legumes,3,299.2,9.87,19.91,1.77,48.61,16.57,6.13,126.0,2.69,173.0,409.0,1324.0,10.45,0.0,0.3,0.19,2.42,0.21,316.0,0.0,26.73,0.07,4.9,not measured in IFCT 2017
+B021,"Red gram, dal",Cajanus cajan,Grain Legumes,6,330.8,9.2,21.7,1.56,55.23,9.06,3.9,71.73,2.63,119.0,328.0,1395.0,18.01,0.0,0.45,0.11,2.09,0.24,108.0,0.0,2.12,0.13,42.25,not measured in IFCT 2017
+B022,"Red gram, whole",Cajanus cajan,Grain Legumes,6,273.9,9.3,20.47,1.38,42.48,22.84,5.37,139.0,2.99,155.0,312.0,1303.0,19.03,0.0,0.74,0.15,2.42,0.42,229.0,0.0,2.78,0.65,91.83,not measured in IFCT 2017
+B023,Ricebean,Vigna umbellata,Grain Legumes,1,302.3,11.12,19.97,0.74,51.26,13.37,4.76,200.0,2.29,201.0,270.0,1196.0,10.62,1.11,0.46,0.14,2.32,0.13,122.0,0.0,8.26,0.9,21.85,not measured in IFCT 2017
+B024,"Soya bean, brown",Glycine max,Grain Legumes,6,381.5,5.51,35.58,19.82,12.79,21.55,8.29,239.0,4.01,259.0,483.0,1613.0,2.07,0.0,0.59,0.24,2.12,0.43,297.0,0.0,66.22,1.04,45.8,not measured in IFCT 2017
+B025,"Soya bean, white",Glycine max Merr,Grain Legumes,1,377.4,5.47,37.8,19.42,10.16,22.63,8.22,195.0,3.47,189.0,494.0,1634.0,2.83,0.0,0.61,0.23,2.28,0.45,288.0,0.0,69.81,1.06,46.2,not measured in IFCT 2017
+C001,Agathi leaves,Sesbania grandiflora,Green Leafy Vegetables,1,70.5,74.43,8.01,1.35,5.21,8.6,4.36,901.0,0.53,96.64,52.52,674.0,18.12,121.0,0.26,0.33,1.18,0.22,120.0,0.0,4.02,1.48,269.0,not measured in IFCT 2017
+C002,"Amaranth leaves, green",Amaranthus gangeticus,Green Leafy Vegetables,6,30.6,86.85,3.29,0.65,2.28,4.41,4.64,330.0,0.86,194.0,73.22,572.0,16.08,83.54,0.01,0.19,0.71,0.21,70.33,0.0,16.01,0.41,280.0,not measured in IFCT 2017
+C003,"Amaranth leaves, red",Amaranthus gangeticus,Green Leafy Vegetables,1,33.5,85.56,3.93,0.63,2.37,4.91,7.25,245.0,1.37,177.0,75.98,564.0,14.58,86.2,0.01,0.269,0.62,0.22,81.95,0.0,15.1,0.44,312.0,not measured in IFCT 2017
+C004,"Amaranth leaves, red and green",Amaranthus gangeticus,Green Leafy Vegetables,4,31.5,86.37,3.09,0.53,2.87,4.6,5.28,269.0,1.03,146.0,68.23,597.0,17.55,77.24,0.01,0.22,0.69,0.19,69.08,0.0,15.25,0.42,284.0,not measured in IFCT 2017
+C005,"Amaranth, spinous, leaves, green",Amaranth spinosus,Green Leafy Vegetables,4,26.3,86.46,3.54,0.36,1.61,5.1,6.37,359.0,1.57,202.0,72.46,569.0,15.66,82.56,0.01,0.13,0.63,0.22,41.44,0.0,15.23,0.28,443.0,not measured in IFCT 2017
+C006,"Amaranth, spinous, leaves, red and green",Amaranth spinosus,Green Leafy Vegetables,2,23.7,86.64,2.8,0.34,1.45,5.57,4.58,372.0,1.11,187.0,85.02,588.0,16.27,77.3,0.01,0.15,0.72,0.2,44.23,0.0,15.04,0.28,448.0,not measured in IFCT 2017
+C007,Basella leaves,Basella alba,Green Leafy Vegetables,2,19.6,92.68,1.57,0.45,2.01,2.21,4.2,93.89,0.39,153.0,37.26,337.0,18.74,63.35,0.06,0.15,0.46,0.18,90.31,0.0,9.18,0.15,236.0,not measured in IFCT 2017
+C008,Bathua leaves,Chenopodium album.,Green Leafy Vegetables,2,27.7,88.77,2.5,0.44,2.56,4.01,2.66,211.0,0.98,48.41,37.55,438.0,10.75,41.03,0.06,0.51,0.54,0.17,42.55,0.0,1.01,0.25,224.0,not measured in IFCT 2017
+C009,Beetroot leaves,Beta vulgaris,Green Leafy Vegetables,6,34.7,86.68,2.38,0.75,3.86,3.64,5.8,151.0,0.16,120.0,36.02,530.0,111.0,35.83,0.02,0.17,0.43,0.13,11.52,0.0,1.65,0.15,69.45,not measured in IFCT 2017
+C010,"Betel leaves, big (kolkata)",Piper betle,Green Leafy Vegetables,6,48.3,84.93,2.51,0.75,7.37,2.12,3.0,207.0,0.47,107.0,51.73,649.0,16.8,18.4,0.03,0.08,0.45,0.04,15.96,0.0,3.78,0.04,207.0,not measured in IFCT 2017
+C011,"Betel leaves, small",Piper betle,Green Leafy Vegetables,4,43.7,85.92,2.62,0.75,6.16,1.97,2.87,196.0,0.39,89.94,55.72,678.0,14.04,24.51,0.02,0.07,0.47,0.04,16.56,0.0,2.27,0.02,204.0,not measured in IFCT 2017
+C012,Brussels sprouts,Brassica oleracea var. gemmifera,Green Leafy Vegetables,1,44.2,84.39,4.26,0.5,5.09,4.29,1.54,53.99,0.57,32.99,98.56,639.0,18.51,89.45,0.06,0.16,0.5,0.19,85.01,0.0,0.26,0.21,23.6,not measured in IFCT 2017
+C013,"Cabbage, Chinese",Brassica rupa,Green Leafy Vegetables,1,17.9,93.19,1.58,0.13,2.36,2.01,0.39,58.46,0.19,11.51,33.05,258.0,20.28,19.32,0.01,0.05,0.38,0.19,54.51,0.0,0.39,0.25,111.0,not measured in IFCT 2017
+C014,"Cabbage, collard greens",Brassica oleracea var. Viridis,Green Leafy Vegetables,1,30.1,89.53,3.63,0.27,2.79,2.98,2.67,170.0,0.35,45.9,54.67,292.0,22.98,40.76,0.03,0.05,0.26,0.24,63.46,0.0,0.18,0.2,125.0,not measured in IFCT 2017
+C015,"Cabbage, green",Brassica oleracea var. capitata f. alba,Green Leafy Vegetables,6,21.5,91.85,1.36,0.12,3.25,2.76,0.35,51.76,0.16,17.99,30.15,233.0,14.98,33.25,0.03,0.05,0.24,0.13,46.36,0.0,0.21,0.05,113.0,not measured in IFCT 2017
+C016,"Cabbage, violet",Brassica oleracea var. capitata f. rubra,Green Leafy Vegetables,2,23.2,91.94,1.39,0.21,3.54,2.21,0.24,48.0,0.13,26.87,22.14,201.0,24.0,43.49,0.04,0.05,0.27,0.17,34.81,0.0,0.19,0.03,117.0,not measured in IFCT 2017
+C017,Cauliflower leaves,Brassica oleracea var. botrytis,Green Leafy Vegetables,6,35.4,87.64,3.9,0.42,3.39,3.43,2.42,96.7,0.31,41.5,62.82,374.0,24.31,52.84,0.05,0.05,0.21,0.23,42.99,0.0,4.15,0.08,144.0,not measured in IFCT 2017
+C018,"Colocasia leaves, green",Colocasia antiquorum,Green Leafy Vegetables,6,43.5,83.61,3.42,1.38,3.69,5.6,3.41,216.0,0.82,59.44,57.88,404.0,12.08,40.71,0.08,0.07,0.8,0.29,159.0,0.0,1.7,0.07,318.0,not measured in IFCT 2017
+C019,Drumstick leaves,Moringa oleifera,Green Leafy Vegetables,3,67.4,75.65,6.41,1.64,5.62,8.21,4.56,314.0,0.72,97.09,109.0,397.0,9.34,108.0,0.06,0.45,0.82,0.87,42.89,0.0,14.33,0.3,479.0,not measured in IFCT 2017
+C020,Fenugreek leaves,Trigonella foenum-graecum,Green Leafy Vegetables,5,34.4,86.73,3.68,0.83,2.17,4.9,5.69,274.0,0.54,63.67,53.05,226.0,47.01,58.25,0.11,0.22,0.7,0.38,75.26,0.0,2.36,0.36,428.0,not measured in IFCT 2017
+C021,Garden cress,Lepidium sativum,Green Leafy Vegetables,2,49.7,84.02,5.62,0.8,4.48,2.6,6.19,217.0,1.52,79.24,45.55,379.0,25.35,42.75,0.03,0.06,1.2,0.2,58.1,0.0,0.55,0.74,458.0,not measured in IFCT 2017
+C022,"Gogu leaves, green stem",Hibiscus cannabinus,Green Leafy Vegetables,4,36.3,87.42,1.86,1.09,4.06,4.59,7.65,145.0,0.65,83.09,41.99,260.0,12.34,29.65,0.13,0.06,0.58,0.33,74.94,0.0,4.28,0.46,433.0,not measured in IFCT 2017
+C023,"Gogu leaves, red stem",Hibiscus cannabinus,Green Leafy Vegetables,1,36.6,87.98,1.85,1.07,4.24,3.89,9.56,129.0,0.63,75.75,36.38,161.0,14.08,35.43,0.12,0.05,0.56,0.31,88.63,0.0,4.27,0.47,438.0,not measured in IFCT 2017
+C024,"Knol-Khol, leaves",Brassica oleracea,Green Leafy Vegetables,2,42.5,86.2,3.12,0.35,6.16,2.76,2.51,368.0,0.42,66.0,55.02,309.0,26.8,71.11,0.06,0.15,0.86,0.28,41.55,0.0,0.59,0.53,295.0,not measured in IFCT 2017
+C025,Lettuce,Lactuca sativa,Green Leafy Vegetables,3,21.7,92.27,1.54,0.27,3.01,1.79,2.73,56.71,0.51,43.22,44.1,279.0,17.53,11.91,0.05,0.09,0.17,0.08,30.69,0.0,0.1,0.01,91.08,not measured in IFCT 2017
+C026,Mustard leaves,Brassica juncea,Green Leafy Vegetables,3,30.4,88.17,3.52,0.51,2.41,3.92,2.84,191.0,0.68,51.63,71.62,403.0,19.14,60.32,0.08,0.18,0.58,0.16,110.0,0.0,5.4,0.56,192.0,not measured in IFCT 2017
+C027,Pak Choi leaves,Brassica rapa var. chinensis,Green Leafy Vegetables,1,16.0,93.56,1.41,0.25,1.78,1.91,3.78,150.0,0.16,45.28,25.95,250.0,33.73,55.6,0.02,0.22,0.66,0.96,98.5,0.0,0.1,0.03,39.85,not measured in IFCT 2017
+C028,Parsley,Petroselinum crispum,Green Leafy Vegetables,3,72.9,77.76,5.55,1.14,9.43,3.87,5.51,288.0,1.29,49.18,78.56,466.0,53.08,133.0,0.19,0.1,0.36,0.19,197.0,0.0,5.55,0.35,322.0,not measured in IFCT 2017
+C029,Ponnaganni,Alternanthera sessilis,Green Leafy Vegetables,2,50.9,79.43,5.29,0.71,5.17,6.74,3.88,388.0,0.99,80.39,58.26,457.0,39.36,103.0,0.02,0.1,0.32,0.19,48.42,0.0,0.65,0.52,574.0,not measured in IFCT 2017
+C030,"Pumpkin leaves, tender",Cucurbit maxima,Green Leafy Vegetables,6,44.2,85.82,4.21,0.74,4.75,2.25,5.58,271.0,0.9,84.21,64.54,423.0,12.2,12.33,0.07,0.13,1.49,0.17,33.82,0.0,3.19,1.24,243.0,not measured in IFCT 2017
+C031,Radish leaves,Raphanus sativus,Green Leafy Vegetables,6,26.1,91.19,2.22,0.51,2.77,1.82,3.82,234.0,0.49,57.96,50.08,304.0,17.39,65.76,0.06,0.13,0.47,0.16,53.14,0.0,1.39,0.06,185.0,not measured in IFCT 2017
+C032,Rumex leaves,Rumex patientia,Green Leafy Vegetables,2,19.6,93.18,1.62,0.33,2.33,1.27,3.67,131.0,0.46,48.33,32.4,336.0,19.95,53.76,0.03,0.14,0.33,0.09,41.01,0.0,0.1,0.46,126.0,not measured in IFCT 2017
+C033,Spinach,Spinacia oleracea,Green Leafy Vegetables,6,24.4,90.31,2.14,0.64,2.05,2.38,2.95,82.29,0.46,86.97,32.59,625.0,42.55,30.28,0.16,0.1,0.33,0.15,142.0,0.0,0.26,1.27,325.0,not measured in IFCT 2017
+C034,"Tamarind leaves, tender",Tamaridus indica,Green Leafy Vegetables,3,71.5,71.69,5.84,0.49,10.04,10.7,2.84,66.93,0.93,42.1,86.86,465.0,13.43,28.22,0.12,0.03,0.79,0.14,91.82,0.0,2.62,0.69,249.0,not measured in IFCT 2017
+D001,Ash gourd,Benincasa hispida,Other Vegetables,6,17.4,92.17,0.79,0.14,2.84,3.37,0.47,19.39,0.13,19.95,29.07,372.0,0.77,11.41,0.03,0.01,0.12,0.18,14.11,0.0,1.35,0.01,27.15,not measured in IFCT 2017
+D002,"Bamboo shoot, tender",Bambusa vulgaris,Other Vegetables,1,16.3,94.56,1.33,0.35,1.67,1.55,0.33,10.0,0.37,8.28,39.63,422.0,1.12,15.74,0.06,0.06,0.25,0.13,17.05,0.0,0.41,0.0,1.13,not measured in IFCT 2017
+D003,"Bean scarlet, tender",Phaseolus coccineus,Other Vegetables,5,42.8,85.51,2.86,0.99,5.16,4.5,0.73,43.48,0.57,43.75,62.13,164.0,1.46,6.61,0.13,0.12,0.52,0.31,45.26,0.0,1.4,0.15,60.1,not measured in IFCT 2017
+D004,"Bitter gourd, jagged, teeth ridges, elongate",Momordica charantia,Other Vegetables,6,20.8,90.87,1.44,0.24,2.82,3.78,1.15,21.36,0.31,32.14,44.9,326.0,13.09,46.53,0.05,0.04,0.27,0.05,60.28,0.0,1.92,0.01,4.55,not measured in IFCT 2017
+D005,"Bitter gourd, jagged, teeth ridges, short",Momordica charantia,Other Vegetables,4,18.9,91.6,1.34,0.24,2.53,3.49,1.08,16.27,0.36,31.58,40.21,282.0,12.59,50.87,0.06,0.04,0.29,0.04,51.45,0.0,1.9,0.01,4.85,not measured in IFCT 2017
+D006,"Bitter gourd, jagged, smooth ridges, elongate",Momordica charantia,Other Vegetables,1,19.4,91.24,1.61,0.26,2.29,3.72,1.28,17.62,0.43,33.34,44.75,356.0,11.16,54.3,0.06,0.04,0.3,0.05,60.03,0.0,1.83,0.01,4.7,not measured in IFCT 2017
+D007,"Bottle gourd, elongate, pale green",Lagenaria vulgaris,Other Vegetables,6,11.0,95.17,0.53,0.13,1.68,2.12,0.26,15.42,0.15,10.93,16.01,124.0,1.46,4.33,0.03,0.01,0.14,0.02,41.99,0.0,0.74,0.01,2.1,not measured in IFCT 2017
+D008,"Bottle gourd, round, pale green",Lagenaria vulgaris,Other Vegetables,5,13.6,94.5,0.42,0.12,2.53,2.1,0.28,15.05,0.15,10.89,16.99,116.0,1.52,4.54,0.03,0.01,0.14,0.02,49.59,0.0,0.7,0.01,2.06,not measured in IFCT 2017
+D009,"Bottle gourd, elongate, dark green",Lagenaria vulgaris,Other Vegetables,1,12.9,94.63,0.49,0.13,2.25,2.11,0.34,16.64,0.18,12.9,26.86,171.0,1.35,3.8,0.03,0.01,0.14,0.01,46.31,0.0,0.6,0.01,1.8,not measured in IFCT 2017
+D010,Brinjal 1,Solanum melongena,Other Vegetables,1,27.2,89.95,1.77,0.39,3.49,3.57,0.49,22.17,0.32,26.75,39.95,302.0,3.15,1.58,0.07,0.13,0.74,0.05,37.22,0.0,0.85,0.08,10.3,not measured in IFCT 2017
+D011,Brinjal 2,Solanum melongena,Other Vegetables,1,23.7,90.28,1.82,0.34,2.71,4.01,0.44,17.13,0.23,29.56,44.65,206.0,3.92,1.03,0.09,0.11,0.56,0.05,27.22,0.0,1.01,0.11,11.45,not measured in IFCT 2017
+D012,Brinjal 3,Solanum melongena,Other Vegetables,2,24.4,90.02,1.36,0.33,3.38,4.26,0.34,14.58,0.2,18.62,27.79,192.0,3.12,2.34,0.05,0.109,0.6,0.07,32.29,0.0,1.19,0.09,12.25,not measured in IFCT 2017
+D013,Brinjal 4,Solanum melongena,Other Vegetables,4,23.9,90.28,1.51,0.31,3.19,4.04,0.38,13.39,0.21,20.65,31.82,268.0,3.31,2.22,0.06,0.11,0.52,0.07,36.67,0.0,1.05,0.09,12.75,not measured in IFCT 2017
+D014,Brinjal 5,Solanum melongena,Other Vegetables,3,26.5,89.45,1.38,0.29,4.02,4.13,0.36,17.03,0.2,25.36,33.13,227.0,4.03,3.15,0.07,0.11,0.49,0.08,32.21,0.0,1.61,0.1,13.05,not measured in IFCT 2017
+D015,Brinjal 6,Solanum melongena,Other Vegetables,2,23.2,90.57,1.46,0.29,3.29,3.68,0.39,17.17,0.2,18.82,30.12,289.0,3.75,1.49,0.05,0.11,0.51,0.07,34.21,0.0,1.14,0.08,21.45,not measured in IFCT 2017
+D016,Brinjal 7,Solanum melongena,Other Vegetables,1,23.4,91.25,1.4,0.37,3.1,3.32,0.27,19.95,0.16,15.26,29.58,238.0,3.45,1.08,0.05,0.12,0.44,0.07,26.58,0.0,0.84,0.03,13.14,not measured in IFCT 2017
+D017,Brinjal 8,Solanum melongena,Other Vegetables,3,28.0,89.28,1.82,0.33,3.75,4.01,0.42,21.0,0.24,26.63,35.84,284.0,4.73,1.89,0.07,0.11,0.65,0.07,33.89,0.0,0.97,0.08,13.94,not measured in IFCT 2017
+D018,Brinjal 9,Solanum melongena,Other Vegetables,2,25.3,89.83,1.47,0.35,3.52,4.0,0.38,18.79,0.23,26.23,35.71,224.0,3.08,1.72,0.06,0.11,0.56,0.09,35.89,0.0,1.02,0.09,14.05,not measured in IFCT 2017
+D019,Brinjal 10,Solanum melongena,Other Vegetables,2,27.7,89.38,1.68,0.25,4.08,3.9,0.41,15.59,0.23,22.11,37.36,252.0,4.35,2.4,0.06,0.1,0.5,0.08,37.11,0.0,0.88,0.05,14.25,not measured in IFCT 2017
+D020,Brinjal 11,Solanum melongena,Other Vegetables,6,25.1,89.93,1.43,0.31,3.53,4.12,0.37,15.92,0.22,20.73,33.28,260.0,3.47,2.24,0.06,0.11,0.53,0.08,34.24,0.0,1.01,0.07,14.46,not measured in IFCT 2017
+D021,Brinjal 12,Solanum melongena,Other Vegetables,2,22.2,90.94,1.6,0.27,2.73,3.89,0.37,19.85,0.25,19.26,37.81,259.0,3.88,2.55,0.04,0.1,0.46,0.06,27.83,0.0,0.87,0.09,14.32,not measured in IFCT 2017
+D022,Brinjal 13,Solanum melongena,Other Vegetables,1,29.6,89.14,1.49,0.31,4.51,3.92,0.32,18.95,0.19,18.0,26.81,260.0,3.0,1.49,0.04,0.12,0.54,0.09,30.99,0.0,1.06,0.07,14.29,not measured in IFCT 2017
+D023,Brinjal 14,Solanum melongena,Other Vegetables,3,25.3,90.31,1.56,0.35,3.27,3.87,0.32,14.43,0.19,19.19,30.07,246.0,3.71,1.83,0.06,0.1,0.46,0.07,38.99,0.0,0.89,0.06,14.58,not measured in IFCT 2017
+D024,Brinjal 15,Solanum melongena,Other Vegetables,4,27.2,89.44,1.58,0.29,3.96,3.99,0.36,17.82,0.22,21.89,30.32,215.0,3.34,2.01,0.07,0.11,0.51,0.07,32.48,0.0,1.12,0.08,14.04,not measured in IFCT 2017
+D025,Brinjal 16,Solanum melongena,Other Vegetables,1,24.6,90.39,1.26,0.34,3.46,3.74,0.32,18.33,0.19,17.06,29.86,294.0,3.22,1.53,0.04,0.11,0.44,0.1,30.87,0.0,0.76,0.09,13.37,not measured in IFCT 2017
+D026,Brinjal 17,Solanum melongena,Other Vegetables,1,21.7,90.83,1.18,0.36,2.89,3.94,0.5,20.83,0.25,23.13,35.94,233.0,3.09,1.95,0.08,0.09,0.53,0.1,27.7,0.0,1.33,0.07,12.75,not measured in IFCT 2017
+D027,Brinjal 18,Solanum melongena,Other Vegetables,3,27.7,89.07,1.47,0.33,4.1,4.38,0.38,16.24,0.18,15.48,28.03,208.0,3.63,1.97,0.04,0.1,0.57,0.07,38.27,0.0,1.01,0.04,13.67,not measured in IFCT 2017
+D028,Brinjal 19,Solanum melongena,Other Vegetables,3,23.9,90.41,1.26,0.31,3.39,3.97,0.32,16.1,0.19,18.41,29.76,243.0,3.11,2.53,0.04,0.1,0.53,0.09,34.32,0.0,1.06,0.07,11.48,not measured in IFCT 2017
+D029,Brinjal 20,Solanum melongena,Other Vegetables,5,23.7,90.65,1.44,0.34,3.15,3.73,0.33,14.36,0.2,18.51,31.21,239.0,3.58,2.21,0.06,0.1,0.55,0.07,33.44,0.0,1.02,0.07,10.94,not measured in IFCT 2017
+D030,Brinjal 21,Solanum melongena,Other Vegetables,2,27.0,89.83,1.36,0.35,3.93,3.85,0.34,15.27,0.2,17.3,34.98,252.0,3.06,1.38,0.05,0.11,0.53,0.08,32.6,0.0,0.84,0.08,10.5,not measured in IFCT 2017
+D031,Brinjal - all varieties,Solanum melongena,Other Vegetables,6,25.3,90.0,1.48,0.32,3.52,3.98,0.37,16.59,0.21,21.0,32.56,247.0,3.55,2.09,0.06,0.11,0.53,0.07,33.93,0.0,1.04,0.07,13.53,not measured in IFCT 2017
+D032,Broad beans,Vicia faba,Other Vegetables,3,29.4,84.2,3.85,0.15,2.11,8.63,0.94,64.37,0.61,40.18,67.97,362.0,20.74,10.98,0.12,0.1,0.76,0.23,20.46,0.0,11.58,0.05,93.2,not measured in IFCT 2017
+D033,"Capsicum, green",Capsicum annuum,Other Vegetables,6,16.3,93.89,1.11,0.34,1.84,2.06,0.48,14.75,0.15,11.84,23.0,154.0,1.84,123.0,0.05,0.03,0.56,0.15,51.85,0.0,0.7,0.07,24.66,not measured in IFCT 2017
+D034,"Capsicum, red",Capsicum annuum,Other Vegetables,4,19.8,92.99,1.47,0.47,2.14,2.19,0.38,15.76,0.34,19.57,30.81,224.0,1.7,112.0,0.1,0.03,0.66,0.24,62.54,0.0,0.52,0.19,28.42,not measured in IFCT 2017
+D035,"Capsicum, yellow",Capsicum annuum,Other Vegetables,4,18.6,93.38,1.35,0.41,1.95,2.19,0.69,19.13,0.26,17.23,43.33,242.0,1.56,127.0,0.14,0.02,0.59,0.25,66.15,0.0,0.89,0.18,35.25,not measured in IFCT 2017
+D036,Cauliflower,Brassica oleracea var. botrytis,Other Vegetables,6,22.9,90.76,2.15,0.44,2.03,3.71,0.96,25.16,0.31,23.08,47.33,329.0,30.72,47.14,0.04,0.07,0.31,0.13,45.95,0.0,1.32,0.02,14.33,not measured in IFCT 2017
+D037,Celery stalk,Apium graveolens,Other Vegetables,3,16.5,92.87,0.98,0.24,2.33,2.09,1.36,38.73,0.18,17.12,44.84,298.0,10.68,12.3,0.03,0.04,0.48,0.06,22.48,0.0,1.39,0.03,25.87,not measured in IFCT 2017
+D038,Cho-cho-marrow,Sechium edule,Other Vegetables,4,18.9,93.78,0.66,0.15,3.47,1.55,0.48,18.64,0.1,13.05,21.61,120.0,1.28,20.21,0.01,0.03,0.23,0.07,63.03,0.0,5.46,0.01,1.78,not measured in IFCT 2017
+D039,Cluster beans,Cyamopsis tetragonobola,Other Vegetables,6,40.2,84.65,3.55,0.37,4.91,4.83,3.9,121.0,0.61,81.74,45.28,301.0,4.05,17.96,0.05,0.03,0.71,0.12,41.24,0.0,13.72,0.77,23.7,not measured in IFCT 2017
+D040,"Colocasia, stem, black",Colocasia esculenta,Other Vegetables,1,23.9,91.15,0.76,0.34,3.83,3.01,0.77,29.46,0.54,11.07,20.31,381.0,0.45,5.15,0.02,0.04,0.16,0.06,30.88,0.0,0.21,0.06,35.75,not measured in IFCT 2017
+D041,"Colocasia, stem, green",Colocasia esculenta,Other Vegetables,5,19.4,92.67,0.91,0.22,2.86,2.33,0.55,40.21,0.2,19.56,30.73,414.0,0.6,5.83,0.02,0.03,0.22,0.07,25.32,0.0,0.14,0.09,33.68,not measured in IFCT 2017
+D042,"Corn, baby",Zea mays,Other Vegetables,6,73.1,75.44,2.69,1.33,11.66,6.09,1.45,76.51,1.13,25.47,8.69,260.0,1.4,8.59,0.15,0.07,0.53,0.16,45.53,0.0,31.2,0.13,75.05,not measured in IFCT 2017
+D043,"Cucumber, green, elongate",Cucumis sativus,Other Vegetables,6,19.6,92.96,0.71,0.16,3.48,2.14,0.46,16.39,0.17,20.38,28.34,183.0,6.33,6.11,0.02,0.01,0.35,0.06,16.84,0.0,1.26,0.02,8.2,not measured in IFCT 2017
+D044,"Cucumber, green, short",Cucumis sativus,Other Vegetables,6,17.4,93.52,0.83,0.18,2.82,2.13,0.59,19.25,0.19,18.48,29.74,198.0,6.11,6.21,0.02,0.01,0.35,0.07,14.67,0.0,1.36,0.02,8.0,not measured in IFCT 2017
+D045,"Cucumber, orange, round",Cucumis sativus,Other Vegetables,2,19.6,92.8,0.98,0.24,3.01,2.46,0.45,21.98,0.16,20.34,23.17,185.0,8.16,6.24,0.02,0.01,0.36,0.04,18.77,0.0,1.59,0.02,7.5,not measured in IFCT 2017
+D046,Drumstick,Moringa oleifera,Other Vegetables,6,29.4,85.39,2.62,0.12,3.76,6.83,0.73,33.3,0.31,38.1,52.87,419.0,22.38,71.86,0.04,0.07,0.62,0.12,62.75,0.0,1.67,0.31,358.0,not measured in IFCT 2017
+D047,"Field beans, tender, broad",Phaseolus vulgaris,Other Vegetables,2,30.8,86.98,3.06,0.64,2.75,5.64,1.95,70.57,0.64,50.88,73.3,345.0,14.14,5.99,0.07,0.07,0.32,0.42,123.0,0.0,7.14,0.08,26.45,not measured in IFCT 2017
+D048,"Field beans, tender, lean",Phaseolus vulgaris,Other Vegetables,6,33.5,85.57,3.71,0.6,2.85,6.19,1.48,58.59,0.63,47.42,76.54,314.0,12.76,3.84,0.08,0.07,0.33,0.38,127.0,0.0,7.2,0.08,26.35,not measured in IFCT 2017
+D049,"French beans, country",Phaseolus vulgaris,Other Vegetables,5,24.4,89.14,2.49,0.26,2.68,4.38,1.25,55.99,0.5,43.01,59.86,324.0,8.84,15.81,0.04,0.06,0.83,0.37,47.45,0.0,1.82,0.06,15.12,not measured in IFCT 2017
+D050,"French beans, hybrid",Phaseolus vulgaris,Other Vegetables,2,22.2,90.11,2.12,0.19,2.63,4.18,0.98,49.9,0.37,34.98,45.9,317.0,9.18,1.38,0.05,0.05,0.77,0.44,61.98,0.0,1.85,0.08,15.14,not measured in IFCT 2017
+D051,"Jack fruit, raw",Artocarpus heterophyllus,Other Vegetables,5,26.3,85.52,1.98,0.35,3.48,7.69,0.31,45.74,0.17,26.6,27.78,327.0,3.53,17.51,0.05,0.05,0.19,0.04,35.73,0.0,6.84,0.05,22.3,not measured in IFCT 2017
+D052,"Jack fruit, seeds, mature",Artocarpus heterophyllus,Other Vegetables,5,77.0,72.32,5.79,0.44,11.81,8.63,0.37,37.56,0.29,37.04,29.33,376.0,4.0,9.68,0.06,0.03,0.19,0.08,54.58,0.0,1.4,0.05,13.56,not measured in IFCT 2017
+D053,Knol - Khol,Brassica oleracea,Other Vegetables,6,16.0,93.14,1.58,0.35,1.39,2.75,0.24,35.26,0.15,19.05,40.77,327.0,27.46,64.7,0.04,0.06,0.37,0.19,14.76,0.0,0.32,0.01,8.9,not measured in IFCT 2017
+D054,"Kovai, big",Coccinia cordifolia,Other Vegetables,6,17.4,92.78,1.39,0.24,2.01,3.0,0.38,34.39,0.18,19.6,36.9,198.0,1.53,17.62,0.04,0.02,0.55,0.08,48.68,0.0,6.25,0.7,19.15,not measured in IFCT 2017
+D055,"Kovai, small",Coccinia cordifolia,Other Vegetables,1,19.1,92.4,1.22,0.24,2.41,3.25,0.29,37.12,0.13,18.87,26.29,167.0,2.2,21.08,0.04,0.02,0.51,0.05,50.13,0.0,6.06,0.68,19.1,not measured in IFCT 2017
+D056,Ladies finger,Abelmoschus esculentus,Other Vegetables,6,27.5,89.06,2.08,0.22,3.62,4.08,0.84,86.12,0.45,66.1,57.48,263.0,7.37,22.51,0.04,0.07,0.61,0.27,63.68,0.0,7.46,0.48,21.52,not measured in IFCT 2017
+D057,"Mango, green, raw",Mangifera indica,Other Vegetables,6,49.0,85.14,0.69,0.08,10.59,3.01,0.4,27.0,0.09,17.54,14.92,147.0,33.15,90.24,0.02,0.02,0.26,0.13,25.86,0.0,7.68,0.9,14.42,not measured in IFCT 2017
+D058,"Onion, stalk",Allium wakegi,Other Vegetables,6,25.6,88.35,2.07,0.26,2.99,5.21,3.09,31.12,0.99,66.71,28.53,312.0,15.52,27.23,0.03,0.05,0.14,0.17,57.61,0.0,6.81,0.81,44.33,not measured in IFCT 2017
+D059,"Papaya, raw",Carica papaya,Other Vegetables,6,23.9,92.04,0.5,0.23,4.4,2.28,0.2,22.72,0.08,15.03,24.11,173.0,7.55,20.73,0.02,0.03,0.12,0.03,29.79,0.0,7.8,0.04,2.45,not measured in IFCT 2017
+D060,Parwar,Trichosanthes dioica,Other Vegetables,6,24.1,91.57,1.4,0.3,3.54,2.61,0.5,30.76,0.23,24.59,33.81,117.0,2.29,19.24,0.05,0.05,0.67,0.2,19.96,0.0,0.69,0.04,8.37,not measured in IFCT 2017
+D061,"Peas, fresh",Pisum sativum,Other Vegetables,6,81.3,73.37,7.25,0.13,11.88,6.32,1.58,28.24,1.09,40.11,55.95,249.0,3.66,38.4,0.27,0.03,1.28,0.19,54.77,0.0,12.91,0.05,44.22,not measured in IFCT 2017
+D062,"Plantain, flower",Musa sapientum,Other Vegetables,6,21.3,89.14,1.47,0.63,2.15,5.25,0.4,34.06,0.42,39.76,47.31,488.0,7.51,6.49,0.02,0.02,0.28,0.13,49.27,0.0,1.29,0.19,3.38,not measured in IFCT 2017
+D063,"Plantain, green",Musa sapientum,Other Vegetables,6,79.8,76.15,1.18,0.23,17.58,3.6,0.34,13.8,0.23,35.64,31.69,402.0,18.57,23.28,0.01,0.05,0.33,0.1,18.96,0.0,0.27,0.08,17.42,not measured in IFCT 2017
+D064,"Plantain, stem",Musa sapientum,Other Vegetables,6,39.4,87.53,0.35,0.16,8.64,2.12,0.26,11.24,0.14,32.82,16.31,373.0,23.17,3.77,0.02,0.02,0.18,0.14,12.85,0.0,0.32,0.02,2.5,not measured in IFCT 2017
+D065,"Pumpkin, green, cylindrical",Cucurbita maxima,Other Vegetables,1,24.6,91.73,0.87,0.18,4.22,2.53,0.29,24.1,0.14,13.27,24.51,186.0,5.21,7.29,0.03,0.02,0.44,0.05,31.6,0.0,1.07,0.86,80.8,not measured in IFCT 2017
+D066,"Pumpkin, orange, round",Cucurbita maxima,Other Vegetables,6,23.2,91.85,0.84,0.16,4.0,2.56,0.36,23.06,0.11,10.43,22.18,253.0,8.81,8.04,0.03,0.03,0.41,0.08,24.14,0.0,1.4,0.59,83.7,not measured in IFCT 2017
+D067,"Red gram, tender, fresh",Cajanus cajan,Other Vegetables,1,124.3,64.0,8.09,0.92,19.46,5.9,1.18,58.58,1.1,56.95,141.0,616.0,2.54,15.13,0.23,0.09,2.14,0.3,94.21,0.0,28.96,0.89,14.9,not measured in IFCT 2017
+D068,Ridge gourd,Luffa acutangula,Other Vegetables,6,13.1,94.99,0.91,0.14,1.72,1.81,0.42,13.7,0.22,16.15,33.06,118.0,4.71,5.42,0.02,0.01,0.2,0.07,29.26,0.0,0.37,0.02,11.23,not measured in IFCT 2017
+D069,"Ridge gourd, smooth skin",Luffa acutangula,Other Vegetables,3,15.3,94.27,0.98,0.13,2.24,1.85,0.5,14.96,0.26,17.66,39.25,125.0,6.27,8.1,0.02,0.01,0.21,0.09,27.36,0.0,0.34,0.02,11.57,not measured in IFCT 2017
+D070,"Snake gourd, long, pale green",Trichosanthes anguina,Other Vegetables,6,12.4,94.81,0.98,0.25,1.27,2.27,0.32,24.6,0.14,18.7,23.27,100.0,7.07,2.72,0.03,0.03,0.34,0.1,18.34,0.0,2.67,0.01,8.35,not measured in IFCT 2017
+D071,"Snake gourd, long, dark green",Trichosanthes anguina,Other Vegetables,2,12.0,94.92,0.89,0.25,1.23,2.27,0.47,27.11,0.2,21.7,31.03,104.0,5.04,2.85,0.03,0.03,0.33,0.07,16.52,0.0,3.08,0.01,8.4,not measured in IFCT 2017
+D072,"Snake gourd, short",Trichosanthes anguina,Other Vegetables,1,14.6,94.35,0.54,0.26,2.15,2.29,0.2,17.9,0.11,15.07,21.33,84.0,2.5,2.3,0.03,0.02,0.33,0.06,17.74,0.0,3.12,0.01,8.3,not measured in IFCT 2017
+D073,"Tinda, tender",Praecitrullus fistulosus,Other Vegetables,6,13.9,94.41,1.02,0.17,1.9,2.0,0.41,19.68,0.2,18.96,30.37,56.18,20.61,14.2,0.02,0.03,0.56,0.06,43.23,0.0,2.76,0.05,2.73,not measured in IFCT 2017
+D074,"Tomato, green",Solanum lycopersicum,Other Vegetables,6,20.8,93.21,1.12,0.27,3.18,1.62,0.42,8.49,0.16,13.57,22.5,225.0,13.11,16.41,0.08,0.05,0.46,0.07,12.51,0.0,1.1,0.37,16.1,not measured in IFCT 2017
+D075,"Tomato, ripe, hybrid",Solanum lycopersicum,Other Vegetables,6,18.9,93.79,0.76,0.25,3.2,1.58,0.22,8.9,0.11,11.86,15.45,167.0,11.86,25.27,0.04,0.02,0.51,0.08,15.41,0.0,11.83,0.14,24.12,not measured in IFCT 2017
+D076,"Tomato, ripe, local",Solanum lycopersicum,Other Vegetables,6,19.6,93.62,0.9,0.47,2.71,1.77,0.3,10.17,0.12,13.65,18.77,204.0,9.73,27.47,0.03,0.03,0.52,0.09,19.46,0.0,12.24,0.19,17.18,not measured in IFCT 2017
+D077,"Zucchini, green",Cucurbita pepo,Other Vegetables,2,20.1,92.83,1.1,0.51,2.33,2.3,0.52,17.26,0.29,15.41,21.38,178.0,0.4,15.78,0.05,0.09,1.03,0.25,18.85,0.0,0.4,3.9,41.05,not measured in IFCT 2017
+D078,"Zucchini, yellow",Cucurbita pepo,Other Vegetables,2,18.9,93.15,1.31,0.44,2.2,1.84,0.34,20.98,0.27,10.82,32.03,131.0,0.39,16.71,0.03,0.02,0.42,0.2,21.5,0.0,0.38,1.47,53.28,not measured in IFCT 2017
+E001,"Apple, big",Malus domestica,Fruits,6,62.4,83.01,0.29,0.64,13.11,2.59,0.26,13.68,0.09,8.09,10.44,116.0,1.43,3.57,0.03,0.01,0.25,0.04,3.04,0.0,1.46,0.15,3.65,not measured in IFCT 2017
+E002,"Apple, green",Malus domestica,Fruits,6,51.1,85.54,0.46,0.5,10.65,2.54,0.2,6.53,0.08,5.42,7.48,94.55,1.47,2.9,0.01,0.02,0.21,0.08,3.43,0.0,2.45,0.1,2.13,not measured in IFCT 2017
+E003,"Apple, small",Malus domestica,Fruits,6,63.8,82.91,0.31,0.53,13.95,2.06,0.25,5.39,0.05,5.48,8.39,100.0,1.45,4.0,0.01,0.01,0.09,0.03,3.52,0.0,1.86,0.07,2.18,not measured in IFCT 2017
+E004,"Apple, small, Kashmir",Malus domestica,Fruits,1,64.3,82.79,0.27,0.6,13.99,2.07,0.21,4.72,0.08,5.19,10.72,106.0,1.22,4.24,0.01,0.01,0.09,0.04,3.97,0.0,2.04,0.05,2.55,not measured in IFCT 2017
+E005,"Apricot, dried",Prunus armeniaca,Fruits,6,315.7,16.68,3.17,0.74,72.63,3.32,2.5,28.57,0.41,14.04,72.02,285.0,3.94,0.42,0.04,0.04,1.66,0.1,10.5,0.0,3.98,0.07,5.17,not measured in IFCT 2017
+E006,"Apricot, processed",Prunus armeniaca,Fruits,3,56.4,85.75,1.47,0.64,10.93,0.59,1.12,5.42,0.26,4.29,27.33,95.0,1.6,7.98,0.25,0.04,1.07,0.17,5.42,0.0,4.31,0.01,6.14,not measured in IFCT 2017
+E007,Avocado fruit,Persea  americana,Fruits,1,144.4,73.56,2.95,13.86,1.75,6.69,0.81,28.48,0.75,48.14,63.14,377.0,2.81,9.36,0.07,0.08,0.9,0.18,67.17,0.0,2.1,0.02,38.74,not measured in IFCT 2017
+E008,Bael fruit,Aegle marmelos,Fruits,1,136.0,61.36,2.63,0.57,28.21,6.31,0.23,47.95,0.14,34.1,37.29,409.0,1.56,7.5,0.03,0.04,0.25,0.03,55.22,0.0,1.6,0.6,4.5,not measured in IFCT 2017
+E009,"Banana, ripe, montham",Musa x paradisiaca,Fruits,1,110.7,70.13,1.25,0.32,24.95,2.21,0.4,6.77,0.15,30.22,20.85,362.0,1.25,8.06,0.01,0.04,0.48,0.51,17.93,0.0,0.2,0.08,2.2,not measured in IFCT 2017
+E010,"Banana, ripe, poovam",Musa x paradisiaca,Fruits,2,106.4,71.32,1.49,0.35,23.41,2.33,0.35,8.73,0.17,43.79,33.63,335.0,1.0,6.74,0.01,0.03,0.43,0.5,19.95,0.0,0.24,0.07,2.6,not measured in IFCT 2017
+E011,"Banana, ripe, red",Musa paradisiaca,Fruits,1,111.6,70.28,1.29,0.29,25.21,1.98,0.24,9.56,0.09,31.44,23.27,313.0,1.11,6.74,0.01,0.02,0.46,0.45,18.92,0.0,0.21,0.09,1.9,not measured in IFCT 2017
+E012,"Banana, ripe, robusta",Musa x paradisiaca,Fruits,6,105.2,71.93,1.23,0.33,23.63,1.94,0.28,5.07,0.14,34.98,24.32,306.0,0.85,4.76,0.01,0.03,0.47,0.44,16.81,0.0,0.22,0.08,2.8,not measured in IFCT 2017
+E013,Black berry,Rubus sp.,Fruits,5,54.3,82.94,0.92,0.63,10.64,4.35,0.63,23.81,0.11,30.9,20.08,205.0,1.21,19.45,0.01,0.02,0.4,0.05,22.95,0.0,14.65,0.49,1.82,not measured in IFCT 2017
+E014,"Cherries, red",Prunus avium,Fruits,4,59.8,83.61,1.49,0.46,11.87,2.12,0.36,23.88,0.12,14.37,25.31,165.0,1.64,8.82,0.07,0.02,0.19,0.04,4.92,0.0,4.3,0.07,5.56,not measured in IFCT 2017
+E015,"Currants, black",Ribes nigrum,Fruits,1,54.3,83.27,1.51,0.53,9.93,4.07,1.36,40.32,0.21,16.66,78.8,283.0,1.45,182.0,0.03,0.03,0.35,0.09,8.48,0.0,3.01,0.45,27.52,not measured in IFCT 2017
+E016,Custard apple,Annona squamosa,Fruits,1,98.9,71.55,1.62,0.67,20.38,5.1,0.42,28.2,0.22,38.47,40.81,278.0,3.11,21.51,0.13,0.09,0.69,0.07,7.6,0.0,0.18,0.19,58.0,not measured in IFCT 2017
+E017,"Dates, dry, pale brown",Phoenix dactylifera,Fruits,6,320.3,11.14,2.45,0.35,74.91,8.95,3.2,71.2,0.7,73.79,73.02,804.0,3.27,4.42,0.03,0.03,1.47,0.14,18.65,0.0,2.6,0.02,3.34,not measured in IFCT 2017
+E018,"Dates, dry, dark brown",Phoenix dactylifera,Fruits,2,310.9,13.13,2.38,0.35,72.67,9.1,4.79,66.13,0.58,75.23,70.26,782.0,3.09,3.84,0.02,0.03,1.09,0.153,12.8,0.0,0.68,0.01,4.53,not measured in IFCT 2017
+E019,"Dates, processed",Phoenix dactylifera,Fruits,2,286.1,22.01,1.18,0.41,67.95,6.52,0.89,15.73,0.42,14.34,33.88,289.0,1.6,15.51,0.05,0.02,0.51,0.06,24.53,0.0,0.83,0.02,4.93,not measured in IFCT 2017
+E020,Fig,Ficus Carica,Fruits,6,81.5,75.6,2.03,0.37,16.28,4.64,0.69,78.52,0.22,26.18,21.62,231.0,2.37,16.92,0.04,0.02,0.27,0.15,13.67,0.0,1.47,0.42,5.75,not measured in IFCT 2017
+E021,Goosberry,Emblica officinalis,Fruits,5,23.7,87.02,0.34,0.16,4.39,7.75,1.25,20.14,0.05,6.5,21.85,223.0,1.37,252.0,0.01,0.03,0.12,0.27,7.86,0.0,0.27,0.11,1.64,not measured in IFCT 2017
+E022,"Grapes, seeded, round, black",Vitis vinifera,Fruits,4,60.7,83.88,0.76,0.32,13.23,1.35,0.22,10.57,0.05,7.47,21.04,171.0,1.93,18.3,0.03,0.03,0.14,0.11,8.69,0.0,6.19,0.05,3.65,not measured in IFCT 2017
+E023,"Grapes, seeded, round, green",Vitis vinifera,Fruits,5,56.2,85.07,0.77,0.29,12.19,1.25,0.24,11.16,0.05,6.87,19.5,166.0,1.89,17.1,0.03,0.02,0.13,0.09,8.35,0.0,3.59,0.07,7.26,not measured in IFCT 2017
+E024,"Grapes, seeded, round, red",Vitis vinifera,Fruits,5,58.3,84.46,0.95,0.29,12.55,1.28,0.33,11.27,0.07,7.06,27.91,188.0,1.59,20.59,0.04,0.03,0.1,0.1,7.49,0.0,6.87,0.07,5.2,not measured in IFCT 2017
+E025,"Grapes, seedless, oval, black",Vitis vinifera,Fruits,5,94.4,75.3,1.41,0.46,20.48,1.64,0.28,15.26,0.1,11.29,29.02,237.0,1.83,27.32,0.03,0.02,0.15,0.11,7.22,0.0,6.42,0.05,3.4,not measured in IFCT 2017
+E026,"Grapes, seedless, round, green",Vitis vinifera,Fruits,5,53.5,85.55,0.62,0.26,11.81,1.28,0.24,14.22,0.05,8.43,20.27,168.0,1.81,16.47,0.04,0.03,0.12,0.08,8.31,0.0,3.54,0.08,7.15,not measured in IFCT 2017
+E027,"Grapes, seedless, round, black",Vitis vinifera,Fruits,5,89.4,76.9,1.24,0.35,19.86,1.15,0.39,18.75,0.09,10.8,26.68,235.0,1.92,22.79,0.03,0.03,0.13,0.08,8.89,0.0,6.23,0.06,3.0,not measured in IFCT 2017
+E028,"Guava, white flesh",Psidium guajava,Fruits,5,32.3,83.79,1.44,0.32,5.13,8.59,0.32,18.52,0.23,15.26,23.54,283.0,2.87,214.0,0.05,0.04,0.6,0.11,29.76,0.0,1.68,0.06,3.68,not measured in IFCT 2017
+E029,"Guava, pink flesh",Psidium guajava,Fruits,5,46.6,81.22,1.19,0.25,9.14,7.39,0.4,14.22,0.21,13.26,29.93,270.0,1.89,222.0,0.03,0.03,0.59,0.16,32.17,0.0,0.93,0.07,5.35,not measured in IFCT 2017
+E030,"Jack fruit, ripe",Artocarpus heterophyllus,Fruits,5,72.2,78.56,2.74,0.15,14.01,3.62,0.36,35.03,0.17,31.84,23.02,279.0,1.62,6.73,0.05,0.01,0.42,0.22,32.15,0.0,7.49,0.06,37.0,not measured in IFCT 2017
+E031,"Jambu fruit, ripe",Syzygium samarangense,Fruits,2,56.2,83.33,0.82,0.17,12.3,3.07,0.33,25.36,0.06,27.97,9.6,103.0,2.64,16.47,0.02,0.02,0.14,0.03,7.63,0.0,0.82,0.04,7.94,not measured in IFCT 2017
+E032,Karonda fruit,Carissa carandas,Fruits,1,33.7,86.04,1.15,1.67,2.87,7.25,0.87,10.81,0.25,24.45,32.62,351.0,2.55,135.0,0.01,0.02,0.25,0.08,8.72,0.0,1.43,0.04,2.5,not measured in IFCT 2017
+E033,"Lemon, juice",Citrus limon,Fruits,6,36.6,91.59,0.41,0.75,0.0,0.0,0.12,22.68,0.08,8.9,9.86,113.0,1.21,48.16,0.04,0.01,0.1,0.03,12.43,0.0,0.39,0.06,1.8,not measured in IFCT 2017
+E034,"Lime, sweet, pulp",Citrus limetta,Fruits,6,27.2,91.32,0.76,0.2,5.18,2.07,0.11,25.79,0.05,15.4,20.55,182.0,1.17,46.96,0.06,0.01,0.17,0.05,15.38,0.0,0.3,0.07,2.2,not measured in IFCT 2017
+E035,Litchi,Litchi chinensis,Fruits,4,53.8,85.56,0.99,0.26,11.41,1.34,0.79,5.77,0.24,14.58,23.32,161.0,0.54,33.82,0.02,0.06,0.23,0.07,15.69,0.0,0.33,0.06,7.81,not measured in IFCT 2017
+E036,"Mango, ripe, banganapalli",Mangifera indica,Fruits,6,41.8,88.44,0.54,0.55,8.18,1.88,0.51,15.77,0.12,13.35,11.07,144.0,1.34,32.97,0.03,0.04,0.26,0.12,82.05,0.0,3.71,0.26,4.77,not measured in IFCT 2017
+E037,"Mango, ripe, gulabkhas",Mangifera indica,Fruits,2,50.0,86.65,0.52,0.53,10.32,1.67,0.38,19.33,0.06,11.53,10.66,115.0,1.39,27.65,0.03,0.04,0.23,0.13,84.35,0.0,3.91,0.19,4.8,not measured in IFCT 2017
+E038,"Mango, ripe, himsagar",Mangifera indica,Fruits,3,44.7,88.04,0.46,0.54,9.03,1.55,0.29,15.54,0.12,12.07,12.25,137.0,1.31,49.09,0.03,0.03,0.27,0.1,90.98,0.0,3.73,0.29,4.4,not measured in IFCT 2017
+E039,"Mango, ripe, kesar",Mangifera indica,Fruits,4,55.2,85.07,0.54,0.57,11.36,2.02,0.43,15.74,0.1,12.53,12.36,143.0,1.43,29.08,0.03,0.04,0.26,0.1,90.43,0.0,3.68,0.24,4.75,not measured in IFCT 2017
+E040,"Mango, ripe, neelam",Mangifera indica,Fruits,2,42.5,88.41,0.68,0.55,8.21,1.77,0.36,11.36,0.07,10.1,11.63,137.0,1.2,29.93,0.03,0.04,0.23,0.12,68.7,0.0,3.72,0.24,5.0,not measured in IFCT 2017
+E041,"Mango, ripe, paheri",Mangifera indica,Fruits,2,44.9,87.69,0.68,0.58,8.67,1.97,0.51,15.11,0.2,14.28,15.18,153.0,1.63,30.75,0.03,0.04,0.28,0.23,65.28,0.0,3.62,0.35,4.8,not measured in IFCT 2017
+E042,"Mango, ripe, totapari",Mangifera indica,Fruits,1,59.3,84.14,0.41,0.49,12.75,1.73,0.28,13.34,0.08,12.55,9.87,160.0,1.32,25.26,0.02,0.05,0.27,0.12,77.69,0.0,3.77,0.27,4.6,not measured in IFCT 2017
+E043,Mangosteen,Garcinia mangostana,Fruits,1,52.3,85.52,0.63,0.24,11.41,1.87,0.28,4.69,0.21,12.0,7.18,46.93,3.79,26.33,0.01,0.01,0.58,0.18,13.52,0.0,0.0,0.05,5.5,not measured in IFCT 2017
+E044,Manila tamarind,Pithecellobium dulce,Fruits,1,81.7,74.54,3.56,1.14,13.54,4.4,0.71,8.51,0.56,32.98,73.53,376.0,1.35,55.78,0.18,0.14,0.4,0.04,4.24,0.0,0.0,0.38,33.18,not measured in IFCT 2017
+E045,"Musk melon, orange flesh",Cucumis melon,Fruits,5,23.2,92.97,0.42,0.35,4.24,1.51,0.18,9.8,0.09,11.62,17.28,206.0,14.94,22.76,0.01,0.01,0.41,0.05,22.31,0.0,4.41,0.01,5.7,not measured in IFCT 2017
+E046,"Musk melon, yellow flesh",Cucumis melo,Fruits,6,27.7,91.84,0.53,0.26,5.4,1.49,0.21,9.02,0.09,9.81,13.09,196.0,15.78,21.32,0.01,0.02,0.43,0.06,20.23,0.0,2.33,0.02,1.74,not measured in IFCT 2017
+E047,"Orange, pulp",Citrus aurantium,Fruits,6,37.3,89.61,0.7,0.13,7.92,1.29,0.81,19.52,0.04,11.05,12.9,164.0,1.47,42.72,0.07,0.02,0.28,0.04,19.46,0.0,0.34,0.03,2.5,not measured in IFCT 2017
+E048,"Palm fruit, tender",Borassus flabellifer,Fruits,1,24.1,91.93,0.5,0.12,4.92,2.4,0.0,0.0,0.05,0.0,0.0,158.0,1.25,0.25,0.01,0.46,0.0,0.07,24.4,0.0,0.0,0.01,3.6,not measured in IFCT 2017
+E049,"Papaya, ripe",Carcia papaya,Fruits,6,23.9,91.47,0.42,0.16,4.61,2.83,0.23,15.02,0.08,10.97,17.73,173.0,6.68,43.09,0.03,0.11,0.33,0.04,60.9,0.0,11.47,0.03,2.59,not measured in IFCT 2017
+E050,Peach,Prunus communis,Fruits,1,40.2,88.31,0.86,0.37,7.82,2.13,0.35,6.98,0.1,8.06,19.08,281.0,1.15,5.49,0.02,0.02,0.29,0.1,6.34,0.0,2.41,0.02,4.4,not measured in IFCT 2017
+E051,Pear,Pyrus sp.,Fruits,6,37.5,86.49,0.36,0.27,8.09,4.48,0.28,6.55,0.07,7.61,6.74,106.0,1.64,3.31,0.02,0.02,0.13,0.09,5.28,0.0,1.48,0.29,12.57,not measured in IFCT 2017
+E052,Phalsa,Grewia asiatica,Fruits,2,71.5,77.48,1.66,0.14,15.09,4.54,2.01,153.0,0.48,76.92,23.65,362.0,1.99,5.11,0.03,0.06,0.4,0.03,22.56,0.0,1.34,0.87,5.36,not measured in IFCT 2017
+E053,Pineapple,Ananas comosus,Fruits,6,43.0,86.06,0.52,0.16,9.42,3.46,0.28,10.88,0.1,12.68,13.56,143.0,1.43,36.37,0.05,0.03,0.12,0.13,18.21,0.0,0.21,0.36,2.4,not measured in IFCT 2017
+E054,Plum,Prunus domestica,Fruits,3,56.9,84.44,0.64,0.4,12.1,2.07,0.25,7.61,0.1,7.79,13.83,162.0,1.55,2.26,0.02,0.02,0.44,0.05,14.29,0.0,3.32,0.5,8.5,not measured in IFCT 2017
+E055,"Pomegranate, maroon seeds",Punica granatum,Fruits,6,54.7,83.55,1.33,0.15,11.58,2.83,0.31,10.65,0.18,11.07,27.2,206.0,2.13,12.69,0.06,0.01,0.2,0.29,38.64,0.0,109.0,0.01,18.5,not measured in IFCT 2017
+E056,Pummelo,Citrus maxima,Fruits,3,50.2,86.97,0.68,0.42,10.64,0.8,0.06,14.03,0.06,6.83,13.99,189.0,1.06,48.89,0.06,0.02,0.23,0.04,13.44,0.0,0.98,0.46,4.88,not measured in IFCT 2017
+E057,"Raisins, dried, black",Vitis vinifera,Fruits,6,305.7,19.69,2.57,0.34,71.29,3.92,6.81,73.24,0.22,33.76,77.62,1105.0,10.99,2.05,0.09,0.04,0.48,0.17,38.3,0.0,1.76,0.01,1.63,not measured in IFCT 2017
+E058,"Raisins, dried, golden",Vitis vinifera,Fruits,6,296.6,21.5,2.76,0.35,68.79,4.56,4.26,51.83,0.25,28.32,93.3,913.0,10.16,1.85,0.09,0.04,0.64,0.17,34.68,0.0,11.87,0.01,1.71,not measured in IFCT 2017
+E059,Rambutan,Nephelium lappaceum,Fruits,1,73.1,80.87,0.68,0.16,16.84,1.02,0.37,8.67,0.53,21.38,6.98,131.0,1.75,65.0,0.11,0.01,0.26,0.04,7.35,0.0,2.4,0.08,19.7,not measured in IFCT 2017
+E060,Sapota,Achras sapota,Fruits,6,73.4,73.64,0.92,1.26,13.9,9.6,0.49,17.87,0.18,16.19,22.26,280.0,4.61,20.96,0.01,0.03,0.24,0.12,10.83,0.0,0.65,0.25,4.3,not measured in IFCT 2017
+E061,Soursop,Annona muricata,Fruits,1,62.1,80.85,0.74,0.94,11.94,4.95,0.29,10.05,0.12,17.7,25.83,264.0,6.78,59.54,0.03,0.04,0.85,0.03,6.09,0.0,3.24,0.06,2.6,not measured in IFCT 2017
+E062,Star fruit,Averrhoa carambola,Fruits,1,26.3,91.18,0.79,0.39,4.51,2.81,0.45,4.97,0.24,11.53,11.67,159.0,1.56,33.55,0.08,0.02,0.34,0.06,8.43,0.0,0.96,0.4,2.0,not measured in IFCT 2017
+E063,Strawberry,Fragaria ananassa,Fruits,6,24.6,92.03,0.97,0.56,3.4,2.5,0.36,15.28,0.14,15.53,26.31,140.0,1.19,50.2,0.06,0.01,0.48,0.09,8.91,0.0,3.95,0.26,19.81,not measured in IFCT 2017
+E064,"Tamarind, pulp",Tamarindus indicus,Fruits,6,288.5,20.83,2.92,0.15,67.35,5.31,9.16,149.0,0.58,82.73,113.0,836.0,24.92,3.62,0.34,0.07,1.56,0.08,9.79,0.0,25.65,0.1,1.67,not measured in IFCT 2017
+E065,"Water melon, dark green (sugar baby)",Citrullus vulgaris,Fruits,6,20.3,94.54,0.6,0.16,3.86,0.7,0.22,5.29,0.1,9.91,11.33,124.0,1.89,13.26,0.02,0.02,0.28,0.1,5.88,0.0,0.56,0.04,2.1,not measured in IFCT 2017
+E066,"Water melon, pale green",Citrullus vulgaris,Fruits,6,16.7,95.33,0.59,0.16,3.02,0.78,0.16,4.35,0.07,7.42,8.09,126.0,1.62,11.45,0.02,0.02,0.3,0.07,5.55,0.0,0.56,0.05,2.8,not measured in IFCT 2017
+E067,Wood apple,Limonia acidissima,Fruits,3,78.2,79.36,3.14,3.62,7.52,5.21,0.45,55.71,0.31,23.7,84.32,347.0,1.48,22.17,0.04,0.01,0.55,0.17,6.51,0.0,28.71,0.01,6.8,not measured in IFCT 2017
+E068,Zizyphus,Zizyphus jujuba,Fruits,1,48.8,84.39,1.34,0.35,9.4,3.73,0.4,46.55,0.1,16.72,32.38,237.0,1.52,60.93,0.01,0.02,0.33,0.11,5.99,0.0,16.7,0.02,2.5,not measured in IFCT 2017
+F001,Beetroot,Beta vulgaris,Roots and Tubers,6,35.6,86.95,1.95,0.14,6.18,3.31,0.76,17.28,0.3,33.21,36.33,306.0,69.44,5.26,0.01,0.01,0.21,0.07,97.37,0.0,0.18,0.09,2.98,not measured in IFCT 2017
+F002,"Carrot, orange",Dacus carota,Roots and Tubers,6,33.2,87.69,0.95,0.47,5.55,4.18,0.6,35.09,0.25,16.73,43.06,273.0,52.33,6.22,0.04,0.03,0.22,0.11,24.04,0.0,1.36,0.19,18.35,not measured in IFCT 2017
+F003,"Carrot, red",Dacus carota,Roots and Tubers,4,38.2,86.07,1.04,0.47,6.71,4.49,0.71,41.06,0.34,18.83,25.81,267.0,60.69,6.76,0.04,0.03,0.25,0.07,23.67,0.0,1.39,0.19,18.75,not measured in IFCT 2017
+F004,Colocasia,Colocasia antiquorum,Roots and Tubers,6,88.9,73.49,3.31,0.17,17.85,3.22,0.66,30.18,0.41,36.93,81.16,514.0,4.54,1.83,0.06,0.03,0.51,0.17,19.91,0.0,0.27,0.32,3.15,not measured in IFCT 2017
+F005,Lotus root,Nelumbium nelumbo,Roots and Tubers,3,79.3,76.26,1.94,0.93,14.67,4.7,3.34,37.71,0.35,26.58,74.3,611.0,20.63,26.63,0.07,0.05,0.43,0.19,26.49,0.0,0.27,0.73,44.45,not measured in IFCT 2017
+F006,"Potato, brown skin, big",Solanum tuberosum,Roots and Tubers,6,69.8,80.72,1.54,0.23,14.89,1.71,0.57,9.52,0.28,24.07,43.42,541.0,4.11,23.15,0.06,0.01,1.04,0.1,15.51,0.0,0.19,0.06,2.12,not measured in IFCT 2017
+F007,"Potato, brown skin, small",Solanum tuberosum,Roots and Tubers,1,60.9,82.97,1.35,0.22,12.9,1.69,0.53,8.53,0.38,22.34,37.9,474.0,3.97,26.41,0.05,0.01,1.36,0.12,13.85,0.0,0.22,0.07,1.8,not measured in IFCT 2017
+F008,"Potato, red skin",Solanum tuberosum,Roots and Tubers,1,73.1,79.72,1.83,0.22,15.43,1.68,0.66,8.62,0.34,25.54,30.39,501.0,4.36,25.04,0.06,0.01,1.13,0.1,17.83,0.0,0.2,0.06,2.3,not measured in IFCT 2017
+F009,"Radish, elongate, red skin",Raphanus sativus,Roots and Tubers,3,32.0,89.32,0.67,0.13,6.71,2.46,0.37,28.44,0.16,13.34,27.51,255.0,24.73,17.63,0.03,0.02,0.31,0.07,24.65,0.0,0.04,0.01,2.1,not measured in IFCT 2017
+F010,"Radish, elongate, white skin",Raphanus sativus,Roots and Tubers,6,32.3,89.05,0.77,0.15,6.56,2.65,0.36,30.2,0.22,16.07,30.1,288.0,28.2,19.91,0.02,0.02,0.3,0.07,29.75,0.0,0.05,0.01,2.5,not measured in IFCT 2017
+F011,"Radish, round, red skin",Raphanus sativus,Roots and Tubers,1,31.1,89.68,0.89,0.16,6.07,2.29,0.42,35.76,0.18,22.25,28.27,308.0,32.27,15.69,0.03,0.02,0.3,0.07,24.59,0.0,0.05,0.01,2.6,not measured in IFCT 2017
+F012,"Radish, round, white skin",Raphanus sativus,Roots and Tubers,2,30.8,89.76,0.8,0.14,6.13,2.37,0.41,34.23,0.17,15.46,29.47,287.0,24.14,14.0,0.03,0.02,0.24,0.07,22.6,0.0,0.04,0.01,1.9,not measured in IFCT 2017
+F013,"Sweet potato, brown skin",Ipomoea batatas,Roots and Tubers,4,109.0,69.21,1.33,0.26,24.25,3.99,0.35,27.5,0.16,17.37,42.96,345.0,29.6,17.94,0.07,0.04,0.67,0.12,15.62,0.0,1.26,0.01,3.0,not measured in IFCT 2017
+F014,"Sweet potato, pink skin",Ipomoea batatas,Roots and Tubers,3,108.0,69.58,1.27,0.33,23.93,3.94,0.51,28.93,0.14,21.05,37.6,329.0,29.04,22.2,0.06,0.04,0.69,0.09,14.44,0.0,1.64,0.01,3.5,not measured in IFCT 2017
+F015,Tapioca,Manihot esculenta,Roots and Tubers,3,79.8,75.23,1.03,0.2,17.81,4.61,0.81,25.89,0.17,23.08,42.55,255.0,10.86,15.51,0.07,0.02,0.45,0.09,25.64,0.0,0.13,0.19,2.8,not measured in IFCT 2017
+F016,Water Chestnut,Eleocharis dulcis,Roots and Tubers,1,95.6,73.34,0.86,0.37,21.46,3.02,0.77,37.15,0.67,57.43,62.83,382.0,13.08,5.26,0.02,0.02,0.74,0.13,9.8,0.0,1.2,0.09,3.5,not measured in IFCT 2017
+F017,"Yam, elephant",Amorphophallus paeoniifolius,Roots and Tubers,6,84.4,74.39,2.56,0.14,17.46,4.17,1.22,46.91,0.26,33.51,43.06,501.0,14.33,15.22,0.04,0.05,0.61,0.22,20.54,0.0,1.3,0.06,4.8,not measured in IFCT 2017
+F018,"Yam, ordinary",Dioscorea strydomiana,Roots and Tubers,4,83.4,74.28,2.18,0.17,17.65,4.08,0.77,16.19,0.33,30.4,49.46,463.0,15.28,13.88,0.04,0.02,0.56,0.17,15.68,0.0,0.23,0.23,5.5,not measured in IFCT 2017
+F019,"Yam, wild",Dioscorea villosa,Roots and Tubers,2,102.8,69.35,3.07,0.3,20.95,4.57,1.04,44.13,0.31,31.75,55.94,654.0,12.8,14.06,0.121,0.015,0.7,0.2,21.01,0.0,1.18,0.4,6.0,not measured in IFCT 2017
+G001,"Chillies, green-1",Capsicum annum,Condiments and Spices,5,45.7,84.47,2.62,0.73,6.32,4.86,1.46,24.1,0.31,34.72,62.16,431.0,3.32,79.5,0.11,0.09,0.8,0.45,25.31,0.0,3.14,0.07,20.12,not measured in IFCT 2017
+G002,"Chillies, green-2",Capsicum annum,Condiments and Spices,3,39.9,85.72,2.28,0.75,5.27,5.13,1.24,16.86,0.26,27.54,51.72,321.0,2.47,90.97,0.08,0.09,0.93,0.29,25.93,0.0,3.49,0.06,19.51,not measured in IFCT 2017
+G003,"Chillies, green-3",Capsicum annum,Condiments and Spices,5,40.4,85.59,2.38,0.75,5.23,5.1,1.25,18.04,0.27,29.9,50.24,317.0,2.56,93.63,0.09,0.11,0.87,0.24,20.45,0.0,3.17,0.06,18.05,not measured in IFCT 2017
+G004,"Chillies, green-4",Capsicum annum,Condiments and Spices,3,45.4,85.29,2.33,0.74,6.63,4.15,1.08,15.87,0.28,29.74,42.79,318.0,1.94,102.0,0.09,0.12,0.9,0.18,15.92,0.0,2.87,0.07,22.16,not measured in IFCT 2017
+G005,"Chillies, green-5",Capsicum annum,Condiments and Spices,2,43.0,85.93,2.01,0.65,6.64,3.95,0.93,15.31,0.31,23.96,44.35,317.0,2.19,97.77,0.08,0.16,1.06,0.2,17.75,0.0,3.26,0.08,15.7,not measured in IFCT 2017
+G006,"Chillies, green-6",Capsicum annum,Condiments and Spices,1,41.8,84.93,3.01,0.64,5.31,5.15,0.75,24.82,0.29,34.8,56.05,340.0,2.43,108.0,0.07,0.13,0.92,0.29,18.87,0.0,2.19,0.07,18.0,not measured in IFCT 2017
+G007,"Chillies, green-7",Capsicum annum,Condiments and Spices,1,39.0,85.83,2.12,0.6,5.61,4.95,1.23,16.85,0.17,26.71,45.58,319.0,2.0,112.0,0.08,0.11,0.8,0.22,19.39,0.0,2.43,0.04,19.5,not measured in IFCT 2017
+G008,"Chillies, green - all varieties",Capsicum annum,Condiments and Spices,6,42.3,85.39,2.36,0.72,5.86,4.77,1.2,18.45,0.27,29.51,50.91,341.0,2.5,94.07,0.09,0.11,0.89,0.28,21.5,0.0,3.11,0.06,19.18,not measured in IFCT 2017
+G009,Coriander leaves,Coriandrum sativum,Condiments and Spices,6,31.1,86.99,3.52,0.7,1.93,4.66,5.3,146.0,0.68,72.68,64.69,546.0,37.0,23.87,0.09,0.05,0.73,0.19,51.01,0.0,3.55,0.42,274.0,not measured in IFCT 2017
+G010,Curry leaves,Murraya koenigii,Condiments and Spices,6,63.6,65.33,7.41,1.06,4.51,16.83,8.67,659.0,1.18,182.0,83.29,584.0,18.66,6.04,0.07,0.13,0.85,0.57,117.0,0.0,117.0,1.71,275.0,not measured in IFCT 2017
+G011,"Garlic, big cloves",Allium sativum,Condiments and Spices,6,123.8,64.38,6.92,0.16,21.93,5.22,1.05,20.08,0.89,27.08,119.0,430.0,9.42,12.62,0.2,0.25,0.38,0.56,85.77,0.0,1.88,0.07,2.8,not measured in IFCT 2017
+G012,"Garlic, small cloves",Allium sativum,Condiments and Spices,3,122.8,64.42,6.75,0.14,21.84,5.47,0.88,17.63,0.81,25.78,116.0,453.0,10.56,13.57,0.2,0.23,0.36,0.77,78.82,0.0,1.97,0.06,3.2,not measured in IFCT 2017
+G013,"Garlic, single clove, Kashmir",Allium sativum,Condiments and Spices,1,125.0,64.49,6.12,0.16,23.46,4.01,1.01,19.0,0.66,41.13,128.0,584.0,8.87,15.38,0.25,0.22,0.42,0.97,92.25,0.0,2.89,0.05,4.5,not measured in IFCT 2017
+G014,"Ginger, fresh",Zinziber officinale,Condiments and Spices,6,55.0,81.27,2.22,0.85,8.97,5.36,1.9,18.88,0.39,54.66,44.36,407.0,10.03,5.43,0.04,0.04,0.42,0.2,10.82,0.0,4.09,0.28,25.55,not measured in IFCT 2017
+G015,Mango ginger,Curcuma amada,Condiments and Spices,3,42.3,84.55,1.45,0.7,6.98,4.74,2.31,13.74,0.47,36.86,68.33,384.0,5.51,1.62,0.02,0.07,0.45,0.18,22.62,0.0,3.1,0.35,27.71,not measured in IFCT 2017
+G016,Mint leaves,Mentha spicata,Condiments and Spices,4,37.0,84.24,4.66,0.65,2.39,5.89,8.56,205.0,0.75,110.0,65.25,539.0,16.87,17.16,0.02,0.19,0.74,0.17,106.0,0.0,3.37,0.45,164.0,not measured in IFCT 2017
+G017,"Onion, big",Allium cepa,Condiments and Spices,6,48.0,85.76,1.5,0.24,9.56,2.45,0.43,21.03,0.35,17.96,32.34,171.0,5.5,6.69,0.04,0.01,0.34,0.1,28.88,0.0,0.73,0.05,4.5,not measured in IFCT 2017
+G018,"Onion, small",Allium cepa,Condiments and Spices,5,56.6,84.67,1.82,0.16,11.58,1.16,0.53,19.92,0.24,15.16,39.65,160.0,4.06,10.96,0.07,0.02,0.21,0.12,29.68,0.0,0.12,0.06,5.3,not measured in IFCT 2017
+G019,Asafoetida,Ferula assa-foetida,Condiments and Spices,6,331.5,9.42,6.34,1.26,71.95,5.13,15.68,266.0,0.98,96.4,69.09,245.0,16.04,0.0,0.82,0.01,0.43,0.02,26.28,0.0,12.59,0.73,46.56,not measured in IFCT 2017
+G020,"Cardamom, green",Elettaria cardamomum,Condiments and Spices,6,255.0,11.24,8.1,2.6,47.76,23.1,8.33,378.0,3.71,330.0,132.0,1262.0,15.51,0.0,0.12,0.07,1.13,0.15,2.85,0.0,43.72,0.14,6.81,not measured in IFCT 2017
+G021,"Cardamom, black",Elettaria cardamomum,Condiments and Spices,4,270.6,6.69,6.69,2.8,52.53,23.46,7.94,312.0,4.75,286.0,117.0,1331.0,16.25,0.0,0.05,0.13,0.52,0.2,4.96,0.0,43.55,0.36,5.74,not measured in IFCT 2017
+G022,"Chillies, red",Capsicum annum,Condiments and Spices,6,236.6,14.57,12.69,6.4,29.46,31.15,6.23,99.83,1.66,231.0,280.0,2245.0,19.45,0.0,0.46,0.83,6.94,0.42,51.5,0.0,24.36,0.69,274.0,not measured in IFCT 2017
+G023,Cloves,Syzygium aromaticum,Condiments and Spices,6,186.7,26.49,5.86,8.41,18.73,34.52,9.41,567.0,1.13,334.0,83.1,1434.0,183.0,0.0,0.53,0.22,1.15,0.03,32.81,0.0,45.07,0.46,161.0,not measured in IFCT 2017
+G024,Coriander seeds,Coriandrum sativum,Condiments and Spices,6,268.9,8.72,10.66,17.47,12.98,44.81,17.64,718.0,3.91,343.0,293.0,1473.0,34.41,0.0,0.19,0.23,1.2,0.04,22.07,0.0,1.31,0.91,35.7,not measured in IFCT 2017
+G025,Cumin seeds,Cuminum cyminum,Condiments and Spices,6,304.5,10.59,13.91,16.64,22.62,30.35,20.58,878.0,4.29,442.0,382.0,1886.0,125.0,0.0,0.52,0.13,2.87,0.39,27.79,0.0,12.1,1.49,146.0,not measured in IFCT 2017
+G026,Fenugreek seeds,Trigonella foenum graecum,Condiments and Spices,6,234.9,7.82,25.41,5.72,10.57,47.55,8.47,135.0,3.8,167.0,435.0,891.0,40.2,0.0,0.28,0.14,1.19,0.77,51.11,0.0,1.98,0.02,1.5,not measured in IFCT 2017
+G027,Mace,Myristica fragrans,Condiments and Spices,6,355.6,20.06,6.24,24.41,26.51,20.31,22.69,174.0,1.16,207.0,110.0,623.0,27.17,0.0,0.13,0.13,0.92,0.3,32.65,0.0,44.92,1.05,70.44,not measured in IFCT 2017
+G028,Nutmeg,Myristica fragrans,Condiments and Spices,6,463.7,15.55,6.3,36.52,27.64,11.99,2.33,148.0,1.45,212.0,207.0,474.0,14.31,0.0,0.04,0.05,0.51,0.1,74.78,0.0,46.67,1.18,60.92,not measured in IFCT 2017
+G029,Omum,Trachyspermum ammi,Condiments and Spices,6,357.3,9.71,15.89,21.11,24.53,20.58,13.65,1034.0,5.67,273.0,329.0,1692.0,28.58,0.0,0.3,0.23,1.23,0.24,51.79,0.0,2.62,0.01,30.36,not measured in IFCT 2017
+G030,Pippali,Piper longum,Condiments and Spices,6,216.5,10.95,10.53,2.27,35.7,34.14,7.99,414.0,1.52,189.0,181.0,1852.0,16.28,0.0,0.06,0.14,1.06,0.6,66.45,0.0,118.0,0.01,93.45,not measured in IFCT 2017
+G031,"Pepper, black",Piper nigrum,Condiments and Spices,6,217.5,13.18,10.12,2.74,36.22,33.16,11.91,405.0,1.24,196.0,144.0,1487.0,24.08,0.0,0.06,0.09,0.85,0.27,21.89,0.0,25.68,0.59,171.0,not measured in IFCT 2017
+G032,Poppy seeds,Papaver somniferum,Condiments and Spices,6,422.6,4.22,20.31,30.38,12.37,26.68,10.13,1372.0,6.38,393.0,804.0,646.0,25.35,0.0,0.87,0.1,0.77,0.42,78.73,0.0,33.92,1.66,95.18,not measured in IFCT 2017
+G033,Turmeric powder,Curcuma domestica,Condiments and Spices,6,280.6,10.58,7.66,5.03,49.22,21.38,46.08,122.0,2.64,260.0,276.0,2374.0,24.41,0.0,0.06,0.01,1.55,0.13,13.86,0.0,18.67,2.63,12.8,not measured in IFCT 2017
+H001,Almond,Prunus amygdalus,Nuts and Oil Seeds,6,609.2,4.37,18.41,58.49,3.04,13.06,4.59,228.0,3.5,318.0,446.0,699.0,1.5,0.74,0.15,0.26,3.71,0.09,36.46,0.0,1.61,24.88,8.4,not measured in IFCT 2017
+H002,"Arecanut, dried, brown",Areca catechu,Nuts and Oil Seeds,6,350.6,6.63,5.78,4.35,70.42,11.44,2.74,61.0,0.89,76.39,105.0,524.0,12.06,0.0,0.04,0.03,0.71,0.32,7.54,0.0,12.77,0.06,3.78,not measured in IFCT 2017
+H003,"Arecanut, dried, red color",Areca catechu,Nuts and Oil Seeds,3,353.0,6.3,6.46,4.46,70.27,11.11,3.26,51.0,1.02,91.01,127.0,617.0,17.13,0.0,0.03,0.24,0.8,0.21,8.57,0.0,12.6,0.04,3.9,not measured in IFCT 2017
+H004,"Arecanut, fresh",Areca catechu,Nuts and Oil Seeds,2,244.7,37.7,2.73,5.51,45.0,7.63,1.04,34.03,0.56,47.6,90.48,329.0,5.53,0.0,0.038,0.031,0.74,0.25,26.51,0.0,11.03,0.01,3.71,not measured in IFCT 2017
+H005,Cashew nut,Anacardium occidentale,Nuts and Oil Seeds,6,582.7,4.44,18.78,45.2,25.46,3.86,5.95,34.0,5.34,307.0,500.0,635.0,9.0,0.0,0.61,0.03,1.03,0.16,25.2,0.0,3.85,1.05,1.83,not measured in IFCT 2017
+H006,"Coconut, kernel, dry",Cocos nucifera,Nuts and Oil Seeds,6,624.0,3.97,7.27,63.26,8.01,15.88,3.13,32.0,1.41,97.21,203.0,739.0,16.68,0.0,0.04,0.04,0.71,0.15,24.27,0.0,0.0,6.02,2.88,not measured in IFCT 2017
+H007,"Coconut, kernel, fresh",Cocos nucifera,Nuts and Oil Seeds,6,408.9,36.14,3.84,41.38,6.3,10.42,1.3,8.0,0.58,35.0,67.73,246.0,8.12,0.8,0.03,0.08,0.3,0.1,25.41,0.0,0.0,2.39,23.22,not measured in IFCT 2017
+H008,"Garden cress, seeds",Lepidium sativum,Nuts and Oil Seeds,5,445.3,4.6,23.36,23.74,33.66,8.27,17.2,318.0,4.83,307.0,539.0,952.0,21.84,0.0,0.52,0.15,5.67,0.05,30.92,0.0,1.92,1.07,24.66,not measured in IFCT 2017
+H009,"Gingelly seeds, black",Sesamum indicum,Nuts and Oil Seeds,6,507.6,4.51,19.17,43.1,10.29,17.16,13.9,1664.0,8.59,390.0,568.0,480.0,15.91,0.0,0.34,0.1,3.12,0.64,127.0,0.0,67.83,1.08,110.0,not measured in IFCT 2017
+H010,"Gingelly seeds, brown",Sesamum indicum,Nuts and Oil Seeds,4,516.5,3.62,21.61,43.22,9.76,17.21,14.95,1174.0,7.84,328.0,613.0,491.0,11.94,0.0,0.27,0.08,3.05,0.49,92.63,0.0,76.51,1.22,113.0,not measured in IFCT 2017
+H011,"Gingelly seeds, white",Sesamum indicum,Nuts and Oil Seeds,5,519.6,3.3,21.7,43.05,10.83,16.99,15.04,1283.0,7.77,372.0,754.0,460.0,15.43,0.0,0.36,0.07,3.94,0.62,131.0,0.0,62.74,1.24,106.0,not measured in IFCT 2017
+H012,Ground nut,Arachis hypogea,Nuts and Oil Seeds,6,520.1,6.97,23.65,39.63,17.27,10.38,3.44,54.0,3.18,197.0,391.0,679.0,12.21,0.0,0.57,0.12,11.35,0.23,90.87,0.0,7.1,4.26,2.5,not measured in IFCT 2017
+H013,Mustard seeds,Brassica nigra,Nuts and Oil Seeds,6,509.6,5.67,19.51,40.19,16.8,14.1,13.49,402.0,4.03,266.0,715.0,694.0,3.97,0.0,0.55,0.33,3.8,0.24,94.88,0.0,31.79,1.44,8.2,not measured in IFCT 2017
+H014,Linseeds,Linum usitatissimum,Nuts and Oil Seeds,6,443.8,5.48,18.55,35.67,10.99,26.17,5.44,257.0,4.86,349.0,445.0,655.0,32.93,0.0,0.28,0.05,1.09,0.35,86.5,0.0,0.55,7.79,19.17,not measured in IFCT 2017
+H015,"Niger seeds, black",Guizotia abyssinica,Nuts and Oil Seeds,4,512.4,4.65,18.92,38.61,22.98,10.93,18.19,572.0,4.98,346.0,461.0,716.0,10.7,0.0,0.46,0.23,1.14,0.45,140.0,0.0,2.52,2.59,110.0,not measured in IFCT 2017
+H016,"Niger seeds, grey",Guizotia abyssinica,Nuts and Oil Seeds,5,508.6,5.66,18.34,39.53,20.59,10.96,19.61,375.0,3.62,379.0,474.0,874.0,8.08,0.0,0.38,0.35,0.88,0.34,73.13,0.0,2.7,2.18,105.0,not measured in IFCT 2017
+H017,Pine seeds,Pinus sp.,Nuts and Oil Seeds,5,594.2,5.32,12.55,48.79,26.77,3.79,4.5,17.0,4.18,268.0,618.0,686.0,1.31,0.0,0.36,0.08,3.52,0.11,31.64,0.0,0.61,4.01,44.55,not measured in IFCT 2017
+H018,Pistachio nuts,Pistacia vera,Nuts and Oil Seeds,6,539.4,4.68,23.35,42.49,15.82,10.64,4.5,135.0,2.42,149.0,537.0,1053.0,6.93,0.0,0.98,0.04,0.86,0.96,64.9,0.0,1.8,31.41,18.65,not measured in IFCT 2017
+H019,Safflower seeds,Carthamus tinctorius,Nuts and Oil Seeds,5,473.5,5.24,17.66,30.87,30.18,13.49,4.06,211.0,3.9,321.0,644.0,550.0,3.05,0.0,0.85,0.15,1.12,0.93,82.41,0.0,1.91,31.74,8.8,not measured in IFCT 2017
+H020,Sunflower seeds,Helianthus annuus,Nuts and Oil Seeds,5,586.3,3.53,23.53,51.85,6.85,10.8,5.85,176.0,7.07,413.0,752.0,559.0,1.9,0.0,0.59,0.13,1.6,0.94,81.79,0.0,1.54,21.39,9.2,not measured in IFCT 2017
+H021,Walnut,Juglans regia,Nuts and Oil Seeds,6,671.4,3.56,14.92,64.27,10.14,5.39,3.21,105.0,2.94,180.0,400.0,457.0,1.33,0.88,0.4,0.12,0.86,0.8,57.95,0.0,46.31,2.65,84.92,not measured in IFCT 2017
+I001,"Jaggery, cane",Saccharum officinarum,Sugars,6,353.7,11.2,1.85,0.16,84.87,0.0,4.63,107.0,0.45,115.0,74.53,488.0,25.38,0.0,0.04,0.01,0.02,0.71,14.4,0.0,0.47,0.04,0.0,not measured in IFCT 2017
+I002,"Sugarcane, juice",Saccharum officinarum,Sugars,6,57.8,85.54,0.16,0.4,13.11,0.56,1.12,18.0,0.14,13.03,22.08,150.0,1.16,6.73,0.03,0.04,0.14,0.4,44.53,0.0,0.41,0.02,0.0,not measured in IFCT 2017
+J001,"Button mushroom, fresh",Agaricus sp.,Mushrooms,1,27.5,90.09,3.68,0.42,1.98,3.11,0.29,18.38,0.17,18.3,87.11,318.0,7.72,0.0,0.01,0.03,0.68,0.12,8.28,0.0,20.54,0.01,12.5,not measured in IFCT 2017
+J002,"Chicken mushroom, fresh",Lactiporus sp.,Mushrooms,1,21.3,92.43,1.84,0.25,2.76,1.99,0.3,4.83,0.55,10.78,79.74,340.0,10.22,0.45,0.37,0.06,1.45,0.11,11.13,0.0,27.58,0.02,16.29,not measured in IFCT 2017
+J003,"Shiitake mushroom, fresh",Lentinula sp.,Mushrooms,1,58.1,82.94,3.19,0.76,8.98,3.02,1.93,5.3,1.21,24.47,96.36,323.0,9.3,0.0,0.05,0.16,1.92,0.45,10.92,0.0,36.4,0.01,12.5,not measured in IFCT 2017
+J004,"Oyster mushroom, dried",Pleurotus sp.,Mushrooms,1,243.5,4.51,19.04,2.86,33.07,39.12,3.58,23.61,8.67,136.0,702.0,350.0,8.67,0.0,0.24,0.17,3.77,0.85,10.4,0.0,109.0,0.01,11.8,not measured in IFCT 2017
+K001,Toddy,,Miscellaneous Foods,10,24.1,93.86,0.18,0.03,5.72,0.0,0.42,0.44,0.01,3.99,5.82,83.54,1.64,0.92,0.01,0.27,0.35,0.03,0.73,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+K002,Coconut water,Cocos nucifera,Miscellaneous Foods,6,15.3,95.77,0.26,0.16,3.16,0.0,0.06,27.47,0.04,18.19,18.05,215.0,28.09,0.64,0.01,0.01,0.04,0.06,10.88,0.0,0.0,0.45,2.69,not measured in IFCT 2017
+L001,"Milk, whole, Buffalo",,Milk and Milk Products,6,107.3,80.68,3.68,6.58,8.39,0.0,0.16,121.0,0.3,10.05,86.94,109.0,30.1,2.37,0.05,0.13,0.07,0.04,8.57,0.0,1.63,0.12,0.0,not measured in IFCT 2017
+L002,"Milk, whole, Cow",,Milk and Milk Products,6,72.9,86.64,3.26,4.48,4.94,0.0,0.15,118.0,0.33,8.28,96.56,115.0,25.46,2.01,0.03,0.11,0.08,0.04,7.03,0.0,1.22,0.14,0.0,not measured in IFCT 2017
+L003,Paneer,,Milk and Milk Products,6,257.9,51.96,18.86,14.78,12.41,0.0,0.9,476.0,2.74,26.62,330.0,63.53,18.04,0.0,0.02,0.1,0.13,0.04,93.31,0.0,0.13,0.02,0.0,not measured in IFCT 2017
+L004,Khoa,,Milk and Milk Products,6,316.0,42.51,16.34,20.62,16.53,0.0,2.32,602.0,2.34,58.53,476.0,536.0,48.1,0.0,0.11,0.11,0.43,0.06,94.25,0.0,0.12,0.03,0.0,not measured in IFCT 2017
+M001,"Egg, poultry, whole, raw",,Egg and Egg Products,6,134.8,76.51,13.28,9.15,0.0,0.0,1.82,49.44,1.23,12.01,185.0,138.0,123.0,0.0,0.06,0.19,0.11,0.16,49.32,198.0,0.84,1.47,0.0,not measured in IFCT 2017
+M002,"Egg, poultry, white, raw",,Egg and Egg Products,6,44.7,86.68,10.84,0.06,0.0,0.0,0.07,5.64,0.03,11.42,15.81,152.0,166.0,0.0,0.02,0.16,0.01,4.36,4.96,0.0,1.05,0.0,0.0,not measured in IFCT 2017
+M003,"Egg, poultry, yolk, raw",,Egg and Egg Products,6,296.8,53.57,15.74,26.34,0.0,0.0,3.17,116.0,1.64,13.17,549.0,118.0,46.33,0.0,0.11,0.16,0.69,0.29,112.0,539.0,3.25,2.94,0.0,not measured in IFCT 2017
+M004,"Egg, poultry, whole, boiled",,Egg and Egg Products,6,147.7,73.46,13.43,10.54,0.0,0.0,1.87,55.12,1.31,13.76,209.0,127.0,121.0,0.0,0.06,0.18,0.21,0.14,48.25,180.0,0.74,1.31,0.0,not measured in IFCT 2017
+M005,"Egg, poultry, white, boiled",,Egg and Egg Products,6,52.6,83.54,12.37,0.26,0.0,0.0,0.15,8.07,0.09,11.62,23.0,147.0,144.0,0.0,0.02,0.18,0.01,4.37,4.1,0.0,0.18,0.0,0.0,not measured in IFCT 2017
+M006,"Egg, poultry, yolk, boiled",,Egg and Egg Products,6,308.3,51.42,16.13,27.46,0.0,0.0,4.92,120.0,3.59,15.52,586.0,106.0,44.83,0.0,0.17,0.15,0.45,0.27,110.0,456.0,3.04,2.77,0.0,not measured in IFCT 2017
+M007,"Egg, poultry, omlet",,Egg and Egg Products,3,169.7,68.48,16.53,11.6,0.0,0.0,2.16,53.26,1.31,14.84,222.0,163.0,169.0,0.0,0.11,0.2,0.33,0.14,37.66,181.0,2.98,1.82,0.0,not measured in IFCT 2017
+M008,"Egg, country hen, whole, raw",,Egg and Egg Products,1,168.3,72.96,13.14,13.0,0.0,0.0,1.64,50.14,1.12,11.0,198.0,117.0,157.0,0.0,0.14,0.08,0.14,0.18,54.6,206.0,4.46,2.05,0.0,not measured in IFCT 2017
+M009,"Egg, country hen, whole, boiled",,Egg and Egg Products,1,183.3,70.43,14.43,14.1,0.0,0.0,1.73,57.79,1.25,11.0,206.0,120.0,149.0,0.0,0.11,0.08,0.12,0.18,59.98,195.0,2.99,2.0,0.0,not measured in IFCT 2017
+M010,"Egg, country hen, omlet",,Egg and Egg Products,1,204.3,67.8,14.8,16.3,0.0,0.0,2.15,55.88,1.26,13.0,243.0,151.0,157.0,0.0,0.14,0.07,0.14,0.18,58.79,202.0,3.44,2.7,0.0,not measured in IFCT 2017
+M011,"Egg, duck, whole, boiled",,Egg and Egg Products,1,176.4,71.61,13.8,13.61,0.0,0.0,2.61,56.12,1.58,12.0,263.0,221.0,110.0,0.0,0.21,0.07,0.18,0.15,73.32,171.0,1.9,2.04,0.0,not measured in IFCT 2017
+M012,"Egg, duck, whole, raw",,Egg and Egg Products,1,181.6,70.53,14.6,13.83,0.0,0.0,2.46,52.46,1.49,12.0,247.0,228.0,113.0,0.0,0.18,0.07,0.13,0.15,75.48,181.0,2.67,2.45,0.0,not measured in IFCT 2017
+M013,"Egg, duck, whole, omlet",,Egg and Egg Products,1,192.2,68.9,15.1,14.8,0.0,0.0,3.28,71.79,1.89,15.0,309.0,154.0,175.0,0.0,0.31,0.09,0.14,0.15,67.95,166.0,2.1,2.62,0.0,not measured in IFCT 2017
+M014,"Egg, quial, whole, raw",,Egg and Egg Products,1,151.8,75.11,12.39,11.46,0.0,0.0,2.55,60.67,1.51,11.0,236.0,119.0,132.0,0.0,0.15,0.11,0.12,0.17,54.86,151.0,5.72,0.98,0.0,not measured in IFCT 2017
+M015,"Egg, quial, whole, boiled",,Egg and Egg Products,1,154.6,74.41,13.03,11.5,0.0,0.0,2.63,61.35,1.55,12.0,237.0,115.0,130.0,0.0,0.11,0.08,0.15,0.15,51.72,140.0,4.91,0.82,0.0,not measured in IFCT 2017
+N001,"Chicken, poultry, leg, skinless",,Poultry,4,383.6,67.61,19.44,12.64,0.0,0.0,1.27,20.52,1.77,23.82,199.0,283.0,65.07,0.0,0.17,0.13,5.6,0.33,7.47,10.95,1.12,0.6,0.0,not measured in IFCT 2017
+N002,"Chicken, poultry, thigh, skinless",,Poultry,6,199.8,67.58,18.18,14.23,0.0,0.0,1.11,18.37,1.42,22.55,186.0,263.0,64.59,0.0,0.13,0.1,5.62,0.38,9.0,16.48,1.22,0.65,0.0,not measured in IFCT 2017
+N003,"Chicken, poultry, breast, skinless",,Poultry,5,168.3,67.15,21.81,9.0,0.0,0.0,0.83,12.91,0.78,20.2,178.0,295.0,36.7,0.0,0.1,0.06,8.06,0.53,10.44,6.96,1.38,0.29,0.0,not measured in IFCT 2017
+N004,"Chicken, poultry, wing, skinless",,Poultry,5,192.9,67.48,17.42,13.81,0.0,0.0,1.38,28.13,1.48,22.81,189.0,185.0,72.78,0.0,0.08,0.07,6.66,0.39,7.87,31.21,1.11,0.57,0.0,not measured in IFCT 2017
+N005,"Poultry, chicken, liver",,Poultry,1,123.8,73.2,21.57,4.08,0.0,0.0,9.92,4.1,2.65,16.0,244.0,241.0,61.58,0.0,0.28,0.2,4.44,0.92,1032.0,3486.0,2.62,0.72,0.0,not measured in IFCT 2017
+N006,"Poultry, chicken, gizzard",,Poultry,1,92.3,78.05,18.22,2.07,0.0,0.0,3.19,5.46,2.65,14.0,119.0,244.0,50.6,0.0,0.01,0.11,2.87,0.14,8.72,46.78,1.6,0.63,0.0,not measured in IFCT 2017
+N007,"Country hen, leg, with skin",,Poultry,1,172.8,70.02,17.01,11.73,0.0,0.0,1.66,22.56,2.71,25.0,250.0,357.0,50.46,0.0,0.17,0.1,2.44,0.36,8.1,17.44,1.12,0.69,0.0,not measured in IFCT 2017
+N008,"Country hen, thigh, with skin",,Poultry,1,187.6,67.46,18.29,12.82,0.0,0.0,1.4,20.12,2.16,24.0,232.0,330.0,51.14,0.0,0.11,0.13,3.62,0.42,10.42,27.0,1.05,0.54,0.0,not measured in IFCT 2017
+N009,"Country hen, breast, with skin",,Poultry,1,180.0,66.53,22.08,10.2,0.0,0.0,1.09,12.49,0.78,22.0,222.0,365.0,23.13,0.0,0.11,0.04,5.62,0.59,12.98,8.52,0.8,0.35,0.0,not measured in IFCT 2017
+N010,"Country hen, wing, with skin",,Poultry,1,182.6,68.01,18.65,12.09,0.0,0.0,1.45,35.46,1.64,25.0,235.0,249.0,54.15,0.0,0.07,0.03,3.19,0.43,9.19,27.52,0.61,0.57,0.0,not measured in IFCT 2017
+N011,"Duck, meat, with skin",,Poultry,1,130.7,73.49,19.07,6.03,0.0,0.0,4.26,22.77,2.92,26.0,237.0,273.0,82.25,0.0,0.22,0.13,2.24,0.31,27.98,48.86,0.91,0.7,0.0,not measured in IFCT 2017
+N012,"Emu, meat, skinless",,Poultry,1,132.9,71.65,22.65,4.62,0.0,0.0,3.95,7.4,2.91,25.0,243.0,275.0,48.48,0.0,0.1,0.17,3.26,0.35,7.07,2.84,0.67,0.4,0.0,not measured in IFCT 2017
+N013,"Guinea fowl, meat, with skin",,Poultry,1,112.1,75.21,20.52,3.24,0.0,0.0,2.2,30.77,1.48,21.0,187.0,240.0,57.64,0.0,0.02,0.18,3.64,0.58,5.69,2.26,1.02,1.75,0.0,not measured in IFCT 2017
+N014,"Pigeon, meat, with skin",,Poultry,1,126.2,74.61,17.94,6.03,0.0,0.0,3.81,18.11,2.48,29.0,255.0,346.0,56.1,0.0,0.18,0.39,3.45,0.48,8.41,15.25,1.2,1.52,0.0,not measured in IFCT 2017
+N015,"Quail, meat, skinless",,Poultry,1,137.7,71.58,20.92,5.95,0.0,0.0,1.9,20.6,1.13,31.0,300.0,333.0,56.21,0.0,0.05,0.24,4.69,0.56,9.33,12.84,1.53,1.59,0.0,not measured in IFCT 2017
+N016,"Turkey, leg, with skin",,Poultry,1,154.6,69.24,20.3,8.15,0.0,0.0,2.01,20.44,3.35,26.0,236.0,308.0,66.47,0.0,0.05,0.11,4.92,0.48,8.55,8.15,0.5,0.72,0.0,not measured in IFCT 2017
+N017,"Turkey, thigh, with skin",,Poultry,1,138.9,72.17,20.46,6.31,0.0,0.0,1.58,23.52,2.95,23.0,194.0,280.0,50.01,0.0,0.04,0.12,1.94,0.51,10.91,13.11,0.36,0.62,0.0,not measured in IFCT 2017
+N018,"Turkey, breast, with skin",,Poultry,1,160.4,68.44,21.96,8.04,0.0,0.0,1.01,14.35,1.28,22.0,182.0,315.0,40.45,0.0,0.06,0.1,4.49,0.56,14.67,8.97,0.52,0.56,0.0,not measured in IFCT 2017
+N019,"Turkey, wing, with skin",,Poultry,1,184.3,66.16,21.91,10.77,0.0,0.0,1.0,33.49,1.68,24.0,199.0,262.0,57.0,0.0,0.03,0.09,4.38,0.45,10.41,18.07,0.52,0.43,0.0,not measured in IFCT 2017
+O001,"Goat, shoulder, meat",,Animal Meat,6,188.1,66.39,20.33,11.94,0.0,0.0,1.48,6.18,4.19,21.39,189.0,332.0,47.31,0.0,0.07,0.17,5.14,0.26,0.0,7.57,0.8,0.35,0.0,not measured in IFCT 2017
+O002,"Goat, chops",,Animal Meat,6,135.8,72.46,20.39,5.98,0.0,0.0,1.87,7.44,4.55,21.13,195.0,334.0,45.72,0.0,0.05,0.13,5.51,0.3,0.0,2.55,0.4,0.15,0.0,not measured in IFCT 2017
+O003,"Goat, legs",,Animal Meat,6,159.9,68.85,22.07,7.94,0.0,0.0,1.77,5.76,3.52,21.71,187.0,339.0,42.77,0.0,0.07,0.15,5.15,0.31,0.0,8.51,0.28,0.09,0.0,not measured in IFCT 2017
+O004,"Goat, brain",,Animal Meat,5,127.4,76.74,13.82,8.06,0.0,0.0,1.63,10.61,1.08,13.94,296.0,296.0,132.0,0.0,0.13,0.17,2.04,0.28,0.0,1.98,0.3,0.08,0.0,not measured in IFCT 2017
+O005,"Goat, tongue",,Animal Meat,4,188.6,68.4,16.63,13.68,0.0,0.0,2.09,7.11,2.44,19.39,212.0,223.0,118.0,0.0,0.14,0.22,3.04,0.17,0.0,8.95,0.02,0.08,0.0,not measured in IFCT 2017
+O006,"Goat, lungs",,Animal Meat,4,95.8,79.03,16.86,3.09,0.0,0.0,7.1,10.44,1.7,11.48,209.0,180.0,85.72,0.0,0.08,0.32,2.79,0.14,0.0,2.75,0.09,0.08,0.0,not measured in IFCT 2017
+O007,"Goat, heart",,Animal Meat,5,117.6,75.15,19.38,4.4,0.0,0.0,3.38,5.71,1.45,18.0,174.0,224.0,73.21,0.0,0.36,0.33,5.97,0.23,0.0,5.9,0.6,0.09,0.0,not measured in IFCT 2017
+O008,"Goat, liver",,Animal Meat,6,125.7,73.37,20.32,4.88,0.0,0.0,6.56,6.09,3.48,18.0,336.0,284.0,55.41,0.0,0.2,0.37,12.88,0.65,0.0,15655.0,0.56,0.61,0.0,not measured in IFCT 2017
+O009,"Goat, tripe",,Animal Meat,5,92.3,80.94,15.36,3.36,0.0,0.0,0.81,20.87,1.66,13.0,59.2,45.0,22.38,0.0,0.02,0.1,0.81,0.2,0.0,2.17,0.0,0.1,0.0,not measured in IFCT 2017
+O010,"Goat, spleen",,Animal Meat,4,95.8,77.93,18.45,2.37,0.0,0.0,51.41,8.35,1.95,15.3,266.0,368.0,52.4,0.0,0.06,0.16,5.2,0.33,0.0,7.85,0.1,0.08,0.0,not measured in IFCT 2017
+O011,"Goat, kidneys",,Animal Meat,4,89.4,80.26,15.6,2.93,0.0,0.0,6.73,12.37,1.73,18.6,220.0,195.0,184.0,0.0,0.34,0.34,5.5,0.4,0.0,68.56,0.0,0.09,0.0,not measured in IFCT 2017
+O012,"Goat, tube (small intestine)",,Animal Meat,3,125.5,78.12,12.92,8.26,0.0,0.0,2.21,27.52,1.12,7.14,55.9,130.0,7.46,0.0,0.01,0.11,0.64,0.21,0.0,2.62,0.0,0.19,0.0,not measured in IFCT 2017
+O013,"Goat, testis",,Animal Meat,2,71.2,84.29,12.32,2.39,0.0,0.0,1.43,5.95,1.19,13.66,186.0,253.0,92.61,0.0,0.15,0.11,1.72,0.24,0.0,2.48,0.55,0.09,0.0,not measured in IFCT 2017
+O014,"Sheep, shoulder",,Animal Meat,5,200.8,66.51,18.24,14.31,0.0,0.0,1.63,5.46,3.69,21.31,195.0,336.0,45.65,0.0,0.05,0.18,4.53,0.15,0.0,8.71,0.07,0.31,0.0,not measured in IFCT 2017
+O015,"Sheep, chops",,Animal Meat,4,118.5,75.66,18.0,5.15,0.0,0.0,2.24,7.98,3.46,21.42,191.0,323.0,45.26,0.0,0.07,0.16,4.94,0.18,0.0,3.49,0.47,0.1,0.0,not measured in IFCT 2017
+O016,"Sheep, leg",,Animal Meat,5,164.0,68.26,21.42,8.69,0.0,0.0,1.54,6.87,2.67,22.22,187.0,333.0,49.3,0.0,0.08,0.16,5.25,0.24,0.0,9.93,2.14,0.08,0.0,not measured in IFCT 2017
+O017,"Sheep, brain",,Animal Meat,1,117.6,78.36,13.05,7.29,0.0,0.0,1.93,10.27,1.11,14.08,271.0,312.0,122.0,0.0,0.12,0.21,2.66,0.33,0.0,1.55,1.06,0.09,0.0,not measured in IFCT 2017
+O018,"Sheep, tongue",,Animal Meat,1,187.1,68.7,16.61,13.53,0.0,0.0,2.46,8.05,2.46,24.53,207.0,220.0,185.0,0.0,0.15,0.2,2.78,0.16,0.0,7.33,0.0,0.07,0.0,not measured in IFCT 2017
+O019,"Sheep, lungs",,Animal Meat,2,86.8,80.41,16.12,2.41,0.0,0.0,8.58,7.74,1.58,11.68,187.0,204.0,109.0,0.0,0.07,0.23,2.75,0.02,0.0,2.45,0.12,0.08,0.0,not measured in IFCT 2017
+O020,"Sheep, heart",,Animal Meat,1,106.4,77.06,18.19,3.66,0.0,0.0,3.07,6.79,1.31,15.19,163.0,225.0,72.62,0.0,0.34,0.3,5.43,0.3,0.0,4.64,0.8,0.15,0.0,not measured in IFCT 2017
+O021,"Sheep, liver",,Animal Meat,4,133.6,69.71,22.26,4.87,0.0,0.0,6.15,5.92,3.73,17.91,334.0,280.0,55.82,0.0,0.17,0.35,15.66,0.26,0.0,14106.0,0.31,0.6,0.0,not measured in IFCT 2017
+O022,"Sheep, tripe",,Animal Meat,2,104.0,78.81,16.76,4.05,0.0,0.0,0.9,14.85,1.89,17.81,55.61,48.75,18.37,0.0,0.02,0.08,0.63,0.22,0.0,2.72,0.0,0.2,0.0,not measured in IFCT 2017
+O023,"Sheep, spleen",,Animal Meat,1,91.8,79.66,16.02,3.02,0.0,0.0,53.11,11.49,1.71,17.23,266.0,327.0,50.58,0.0,0.07,0.23,5.42,0.27,0.0,6.61,0.0,0.1,0.0,not measured in IFCT 2017
+O024,"Sheep, kidneys",,Animal Meat,2,91.8,79.77,16.22,2.92,0.0,0.0,6.11,14.15,1.92,17.46,204.0,198.0,163.0,0.0,0.35,0.31,5.51,0.51,0.0,68.68,0.37,0.1,0.0,not measured in IFCT 2017
+O025,"Beef, shoulder",,Animal Meat,6,212.5,63.84,20.56,14.59,0.0,0.0,2.22,6.5,4.64,22.24,201.0,367.0,45.59,0.0,0.03,0.12,5.18,0.48,0.0,15.51,0.46,0.4,0.0,not measured in IFCT 2017
+O026,"Beef, chops",,Animal Meat,4,139.8,72.4,19.82,6.71,0.0,0.0,1.95,4.64,3.77,24.72,209.0,383.0,32.47,0.0,0.02,0.06,4.36,0.34,0.0,2.43,0.47,0.3,0.0,not measured in IFCT 2017
+O027,"Beef, round (leg)",,Animal Meat,6,157.3,68.04,22.64,7.38,0.0,0.0,2.3,5.86,3.36,26.59,215.0,366.0,38.96,0.0,0.04,0.06,6.3,0.44,0.0,2.52,0.43,0.4,0.0,not measured in IFCT 2017
+O028,"Beef, brain",,Animal Meat,4,125.0,78.71,10.55,9.28,0.0,0.0,2.15,11.38,1.18,15.84,326.0,320.0,127.0,0.0,0.12,0.13,1.91,0.25,0.0,2.18,0.69,0.1,0.0,not measured in IFCT 2017
+O029,"Beef, tongue",,Animal Meat,4,174.7,70.97,15.63,12.57,0.0,0.0,2.17,9.49,3.31,22.82,220.0,260.0,89.88,0.0,0.05,0.13,2.93,0.19,0.0,5.56,0.61,0.11,0.0,not measured in IFCT 2017
+O030,"Beef, lungs",,Animal Meat,3,83.9,80.83,15.66,2.28,0.0,0.0,6.85,9.31,1.52,11.6,172.0,216.0,109.0,0.0,0.09,0.12,3.13,0.23,0.0,1.89,0.0,0.11,0.0,not measured in IFCT 2017
+O031,"Beef, heart",,Animal Meat,5,103.5,77.77,17.68,3.57,0.0,0.0,3.62,6.16,1.5,15.66,181.0,258.0,70.52,0.0,0.24,0.3,5.38,0.25,0.0,10.13,5.71,0.1,0.0,not measured in IFCT 2017
+O032,"Beef, liver",,Animal Meat,6,119.3,74.15,20.73,3.96,0.0,0.0,14.82,5.46,4.36,18.57,332.0,289.0,50.14,0.0,0.17,0.34,14.01,0.3,0.0,9119.0,0.0,0.6,0.0,not measured in IFCT 2017
+O033,"Beef, tripe",,Animal Meat,5,75.5,83.74,13.1,2.51,0.0,0.0,0.84,15.3,2.02,9.33,60.17,143.0,41.0,0.0,0.03,0.08,1.31,0.23,0.0,4.29,4.0,0.41,0.0,not measured in IFCT 2017
+O034,"Beef, spleen",,Animal Meat,6,90.3,79.03,17.42,2.22,0.0,0.0,31.68,9.4,2.01,15.8,252.0,348.0,58.94,0.0,0.31,0.25,7.45,0.26,0.0,8.71,0.33,0.1,0.0,not measured in IFCT 2017
+O035,"Beef, kidneys",,Animal Meat,3,104.9,77.59,17.09,4.01,0.0,0.0,4.71,15.31,1.4,14.7,180.0,184.0,160.0,0.0,0.26,0.27,6.52,0.22,0.0,98.04,0.53,0.08,0.0,not measured in IFCT 2017
+O036,"Calf, shoulder",,Animal Meat,2,151.3,70.49,20.98,7.47,0.0,0.0,1.31,8.39,3.31,22.71,197.0,369.0,77.0,0.0,0.1,0.2,6.11,0.5,0.0,13.17,0.0,0.3,0.0,not measured in IFCT 2017
+O037,"Calf, chops",,Animal Meat,2,125.2,72.66,22.47,3.85,0.0,0.0,1.2,9.27,3.29,20.77,195.0,366.0,64.94,0.0,0.07,0.17,5.11,0.37,0.0,2.1,0.74,0.3,0.0,not measured in IFCT 2017
+O038,"Calf, round (leg)",,Animal Meat,2,147.0,71.13,21.1,6.92,0.0,0.0,2.4,10.03,2.64,22.28,185.0,356.0,67.04,0.0,0.03,0.17,5.97,0.41,0.0,2.42,0.97,0.2,0.0,not measured in IFCT 2017
+O039,"Calf, brain",,Animal Meat,2,107.1,81.19,9.84,7.6,0.0,0.0,1.44,10.53,1.11,14.29,296.0,306.0,115.0,0.0,0.07,0.19,3.19,0.3,0.0,1.41,0.61,0.1,0.0,not measured in IFCT 2017
+O040,"Calf, tongue",,Animal Meat,2,176.1,69.44,17.78,11.76,0.0,0.0,2.63,9.08,2.67,15.38,178.0,238.0,91.64,0.0,0.11,0.22,4.31,0.17,0.0,4.63,0.0,0.1,0.0,not measured in IFCT 2017
+O041,"Calf, heart",,Animal Meat,1,109.7,73.44,18.84,3.75,0.0,0.0,4.66,6.48,1.63,18.21,185.0,224.0,58.0,0.0,0.26,0.29,5.3,0.41,0.0,4.83,0.0,0.1,0.0,not measured in IFCT 2017
+O042,"Calf, liver",,Animal Meat,1,120.2,73.66,21.02,3.95,0.0,0.0,16.26,5.19,3.8,19.16,358.0,307.0,54.99,0.0,0.17,0.31,12.98,0.59,0.0,9664.0,0.0,0.5,0.0,not measured in IFCT 2017
+O043,"Calf, spleen",,Animal Meat,1,90.6,78.65,17.71,2.12,0.0,0.0,25.42,10.56,2.02,18.95,274.0,372.0,67.87,0.0,0.09,0.28,7.61,0.44,0.0,6.32,0.29,0.1,0.0,not measured in IFCT 2017
+O044,"Calf, kidneys",,Animal Meat,2,92.5,80.23,15.16,3.5,0.0,0.0,4.92,12.63,1.58,17.35,204.0,206.0,174.0,0.0,0.32,0.35,4.16,0.3,0.0,95.73,0.0,0.1,0.0,not measured in IFCT 2017
+O045,"Mithun, shoulder",,Animal Meat,1,175.9,68.86,19.05,11.14,0.0,0.0,2.05,4.27,6.11,18.86,199.0,307.0,32.94,0.0,0.04,0.06,6.29,0.37,0.0,12.68,0.06,0.3,0.0,not measured in IFCT 2017
+O046,"Mithun, chops",,Animal Meat,1,128.1,73.81,18.19,6.12,0.0,0.0,2.25,4.88,6.08,18.2,178.0,222.0,42.17,0.0,0.2,0.18,4.76,0.34,0.0,2.62,0.08,0.2,0.0,not measured in IFCT 2017
+O047,"Mithun, round (leg)",,Animal Meat,1,115.9,72.25,19.61,4.1,0.0,0.0,2.18,5.32,3.47,22.23,190.0,338.0,28.42,0.0,0.02,0.05,5.3,0.29,0.0,2.47,0.04,0.3,0.0,not measured in IFCT 2017
+O048,"Pork, shoulder",,Animal Meat,6,237.3,62.92,17.41,18.83,0.0,0.0,0.91,9.95,2.08,15.01,157.0,234.0,54.47,0.0,0.18,0.1,4.22,0.41,0.0,5.12,9.03,0.3,0.0,not measured in IFCT 2017
+O049,"Pork, chops",,Animal Meat,6,178.8,68.4,19.41,11.3,0.0,0.0,1.0,8.12,1.34,11.62,143.0,243.0,43.7,0.0,0.3,0.11,4.49,0.36,0.0,1.51,4.83,0.11,0.0,not measured in IFCT 2017
+O050,"Pork, ham",,Animal Meat,6,240.4,61.94,18.83,18.55,0.0,0.0,1.27,7.4,1.76,17.05,140.0,239.0,40.44,0.0,0.24,0.1,4.59,0.25,0.0,2.98,5.85,0.2,0.0,not measured in IFCT 2017
+O051,"Pork, lungs",,Animal Meat,4,85.6,81.12,15.13,2.74,0.0,0.0,6.76,10.3,1.18,9.82,161.0,200.0,61.41,0.0,0.08,0.14,3.11,0.19,0.0,5.14,1.91,0.11,0.0,not measured in IFCT 2017
+O052,"Pork, heart",,Animal Meat,4,109.2,77.74,16.31,4.87,0.0,0.0,3.97,4.74,1.6,18.23,187.0,268.0,70.52,0.0,0.28,0.3,5.13,0.3,0.0,7.16,0.0,0.1,0.0,not measured in IFCT 2017
+O053,"Pork, liver",,Animal Meat,5,115.7,74.88,19.89,3.94,0.0,0.0,20.74,5.52,4.19,16.59,310.0,279.0,64.89,0.0,0.16,0.31,13.76,0.37,0.0,8759.0,2.97,0.85,0.0,not measured in IFCT 2017
+O054,"Pork, stomach",,Animal Meat,1,131.5,76.51,15.36,7.81,0.0,0.0,1.92,11.75,2.34,23.32,125.0,200.0,109.0,0.0,0.1,0.06,1.9,0.19,0.0,3.34,0.42,0.3,0.0,not measured in IFCT 2017
+O055,"Pork, spleen",,Animal Meat,3,85.3,80.93,15.13,2.71,0.0,0.0,27.21,6.98,2.09,16.08,230.0,325.0,49.14,0.0,0.13,0.27,7.8,0.22,0.0,8.44,0.0,0.17,0.0,not measured in IFCT 2017
+O056,"Pork, kidneys",,Animal Meat,5,90.6,80.92,14.35,3.65,0.0,0.0,6.26,6.71,1.9,15.56,201.0,198.0,138.0,0.0,0.24,0.37,6.46,0.16,0.0,72.53,2.92,0.19,0.0,not measured in IFCT 2017
+O057,"Pork, tube (small intestine)",,Animal Meat,1,140.3,75.42,14.96,8.98,0.0,0.0,2.83,16.05,1.36,9.78,124.0,140.0,60.17,0.0,0.08,0.1,0.9,0.19,0.0,1.13,1.01,0.2,0.0,not measured in IFCT 2017
+O058,"Hare, shoulder",,Animal Meat,1,144.1,71.06,21.13,6.58,0.0,0.0,2.98,57.51,2.72,28.0,260.0,303.0,55.03,0.0,0.07,0.27,5.04,0.28,0.0,8.88,0.06,1.46,0.0,not measured in IFCT 2017
+O059,"Hare, chops",,Animal Meat,1,106.4,75.47,20.62,2.55,0.0,0.0,2.78,38.36,1.45,31.0,295.0,340.0,48.61,0.0,0.07,0.28,4.85,0.22,0.0,2.84,0.09,1.73,0.0,not measured in IFCT 2017
+O060,"Hare, leg",,Animal Meat,1,120.2,73.0,20.52,4.16,0.0,0.0,2.46,53.02,1.62,32.0,275.0,370.0,42.48,0.0,0.08,0.22,5.63,0.24,0.0,1.26,0.08,1.44,0.0,not measured in IFCT 2017
+O061,"Rabbit, shoulder",,Animal Meat,1,151.8,70.75,20.01,7.96,0.0,0.0,1.74,46.37,2.34,32.0,238.0,361.0,61.38,0.0,0.03,0.14,4.38,0.3,0.0,5.9,0.57,1.22,0.0,not measured in IFCT 2017
+O062,"Rabbit, chops",,Animal Meat,1,135.0,71.03,22.61,4.88,0.0,0.0,2.42,25.48,1.3,33.0,245.0,374.0,47.84,0.0,0.02,0.08,7.54,0.24,0.0,3.88,0.7,0.83,0.0,not measured in IFCT 2017
+O063,"Rabbit, leg",,Animal Meat,1,139.6,70.33,21.31,5.99,0.0,0.0,1.21,22.31,1.23,21.0,245.0,389.0,46.03,0.0,0.03,0.1,5.02,0.26,0.0,8.49,0.43,0.72,0.0,not measured in IFCT 2017
+P001,Allathi,Elops machnata,Marine Fish,1,97.0,75.91,21.77,0.98,0.0,0.0,0.62,13.78,0.3,29.08,215.0,286.0,32.68,0.0,0.08,0.04,3.67,194.0,0.0,9.6,1.03,1.02,0.0,not measured in IFCT 2017
+P002,Aluva,Parastromateus niger,Marine Fish,3,103.7,75.71,21.63,1.8,0.0,0.0,0.42,11.32,0.38,34.38,245.0,470.0,44.86,0.0,0.05,0.02,2.35,158.0,0.0,14.3,0.79,1.0,0.0,not measured in IFCT 2017
+P003,Anchovy,Stolephorus indicus,Marine Fish,2,87.7,77.77,19.88,0.78,0.0,0.0,0.54,36.6,0.65,53.0,246.0,270.0,212.0,0.0,0.03,0.04,0.91,61.25,0.0,12.18,2.76,0.73,0.0,not measured in IFCT 2017
+P004,Ari fish,Aprion virescens,Marine Fish,1,99.2,77.09,22.01,1.11,0.0,0.0,0.47,4.36,0.31,30.27,265.0,447.0,37.35,0.0,0.06,0.03,3.65,218.0,0.0,1.56,1.02,0.1,0.0,not measured in IFCT 2017
+P005,Betki,Lates calcarifer,Marine Fish,1,67.9,82.52,15.28,0.29,0.0,0.0,0.31,8.84,0.36,24.16,188.0,355.0,63.68,0.0,0.01,0.04,1.54,85.0,0.0,5.58,1.05,0.38,0.0,not measured in IFCT 2017
+P006,Black snapper,Macolor niger,Marine Fish,1,90.1,78.09,19.5,1.24,0.0,0.0,0.56,9.91,0.4,26.72,195.0,341.0,41.23,0.0,0.02,0.0,2.89,106.0,0.0,14.55,1.31,0.51,0.0,not measured in IFCT 2017
+P007,Bombay duck,Harpadon nehereus,Marine Fish,2,68.6,83.24,13.53,1.03,0.0,0.0,0.81,159.0,0.42,24.27,185.0,188.0,223.0,0.0,0.03,0.02,0.64,98.0,0.0,3.38,0.96,0.75,0.0,not measured in IFCT 2017
+P008,Bommuralu,Muraenesox cinerius,Marine Fish,3,115.9,76.42,22.3,2.87,0.0,0.0,0.43,47.33,0.67,27.13,207.0,349.0,61.87,0.0,0.05,0.02,1.34,68.63,0.0,3.28,3.19,0.54,0.0,not measured in IFCT 2017
+P009,Cat fish,Tachysurus thalassinus,Marine Fish,1,109.0,76.22,22.18,2.13,0.0,0.0,0.72,5.54,0.58,25.69,252.0,429.0,35.82,0.0,0.05,0.05,1.38,223.0,0.0,14.08,1.42,0.38,0.0,not measured in IFCT 2017
+P010,Chakla,Rachycentron canadum,Marine Fish,5,97.0,78.36,20.21,1.68,0.0,0.0,0.41,6.55,0.57,24.71,219.0,343.0,51.41,0.0,0.06,0.04,2.37,99.11,0.0,1.39,2.07,0.72,0.0,not measured in IFCT 2017
+P011,Chappal,Aluterus monoceros,Marine Fish,1,75.8,80.61,17.17,0.67,0.0,0.0,1.29,10.22,0.67,25.85,203.0,306.0,38.12,0.0,0.06,0.02,3.95,185.0,0.0,1.37,0.21,1.09,0.0,not measured in IFCT 2017
+P012,Chelu,Elagatis bipinnulata,Marine Fish,2,87.5,76.36,20.02,0.7,0.0,0.0,0.67,8.17,0.41,31.68,252.0,406.0,37.6,0.0,0.06,0.02,2.19,161.0,0.0,1.49,0.86,0.41,0.0,not measured in IFCT 2017
+P013,Chembali,Lutjanus quinquelineatus,Marine Fish,1,97.0,77.54,20.06,1.77,0.0,0.0,0.31,23.72,0.32,30.55,211.0,323.0,38.98,0.0,0.03,0.06,1.8,146.0,0.0,1.59,0.72,1.2,0.0,not measured in IFCT 2017
+P014,Eri meen,Pristipomoides filamentosus,Marine Fish,1,108.5,76.54,22.3,2.02,0.0,0.0,0.46,12.45,0.31,30.99,243.0,402.0,41.19,0.0,0.04,0.03,2.88,190.0,0.0,13.24,0.33,0.1,0.0,not measured in IFCT 2017
+P015,Gobro,Epinephelus diacanthus,Marine Fish,2,86.5,78.84,19.37,0.88,0.0,0.0,0.36,24.18,0.37,28.23,170.0,316.0,52.68,0.0,0.07,0.02,1.27,43.72,0.0,1.82,0.15,0.89,0.0,not measured in IFCT 2017
+P016,Guitar fish,Rhinobatus prahli,Marine Fish,1,95.6,75.73,22.56,0.44,0.0,0.0,0.44,17.32,0.35,27.45,230.0,342.0,70.81,0.0,0.03,0.02,2.01,139.0,0.0,1.27,0.12,0.34,0.0,not measured in IFCT 2017
+P017,Hilsa,Tenualosa ilisha,Marine Fish,2,258.8,60.09,21.8,18.49,0.0,0.0,1.19,19.82,0.64,30.62,278.0,341.0,80.88,0.0,0.01,0.04,2.85,120.0,0.0,7.42,4.96,1.35,0.0,not measured in IFCT 2017
+P018,Jallal,Arius sp.,Marine Fish,1,100.4,77.5,21.55,1.46,0.0,0.0,0.46,14.73,0.83,29.12,204.0,368.0,74.33,0.0,0.02,0.02,3.24,89.14,0.0,8.49,0.94,0.62,0.0,not measured in IFCT 2017
+P019,Jathi vela meen,Lethrinus lentjan,Marine Fish,2,108.3,75.66,22.45,1.92,0.0,0.0,0.28,6.65,0.35,31.12,249.0,467.0,30.53,0.0,0.12,0.02,2.82,67.45,0.0,3.16,0.93,1.49,0.0,not measured in IFCT 2017
+P020,Kadal bral,Synodus indicus,Marine Fish,1,88.0,79.66,18.72,1.34,0.0,0.0,0.31,73.92,0.38,29.55,219.0,366.0,53.66,0.0,0.01,0.06,1.76,89.19,0.0,10.63,1.2,0.12,0.0,not measured in IFCT 2017
+P021,Kadali,Nemipterus mesoprion,Marine Fish,1,126.7,73.74,22.07,4.2,0.0,0.0,0.38,8.62,0.35,26.23,207.0,390.0,36.06,0.0,0.04,0.01,1.86,184.0,0.0,25.61,0.84,0.58,0.0,not measured in IFCT 2017
+P022,Kalamaara,Leptomelanosoma indicum,Marine Fish,2,125.0,75.5,20.89,4.54,0.0,0.0,0.5,7.54,0.38,34.29,227.0,420.0,29.33,0.0,0.06,0.03,2.22,160.0,0.0,9.04,1.45,0.82,0.0,not measured in IFCT 2017
+P023,Kalava,Epinephelus coioides,Marine Fish,1,89.4,80.02,19.38,1.2,0.0,0.0,0.26,10.66,0.82,22.87,177.0,279.0,40.14,0.0,0.06,0.05,2.24,135.0,0.0,1.29,1.86,0.33,0.0,not measured in IFCT 2017
+P024,Kanamayya,Lutjanus rivulatus,Marine Fish,2,87.7,77.59,20.19,0.65,0.0,0.0,0.36,7.72,0.31,27.07,194.0,346.0,50.53,0.0,0.06,0.01,1.22,83.86,0.0,16.42,0.82,0.59,0.0,not measured in IFCT 2017
+P025,Kannadi paarai,Alectis indicus,Marine Fish,3,101.1,76.25,22.09,1.27,0.0,0.0,0.31,9.04,0.4,32.36,252.0,432.0,59.57,0.0,0.04,0.03,1.81,67.09,0.0,12.37,0.1,0.7,0.0,not measured in IFCT 2017
+P026,Karimeen,Etroplus suratensis,Marine Fish,1,92.3,78.66,19.68,1.38,0.0,0.0,0.6,11.73,0.46,28.49,192.0,452.0,23.72,0.0,0.08,0.05,1.15,90.62,0.0,1.29,0.87,0.37,0.0,not measured in IFCT 2017
+P027,Karnagawala,Anchoa hepsetus,Marine Fish,1,86.8,79.22,19.52,0.84,0.0,0.0,0.44,60.03,0.41,44.3,178.0,228.0,63.27,0.0,0.07,0.01,0.98,60.47,0.0,1.82,1.24,0.12,0.0,not measured in IFCT 2017
+P028,Kayrai,Thunnus albacares,Marine Fish,2,108.5,72.69,20.15,3.0,0.0,0.0,0.98,6.0,0.39,31.74,266.0,321.0,25.12,0.0,0.08,0.07,5.18,264.0,0.0,10.19,3.12,0.75,0.0,not measured in IFCT 2017
+P029,Kiriyan,Atule mate,Marine Fish,1,132.9,72.39,22.49,4.7,0.0,0.0,1.0,19.42,0.82,31.98,214.0,277.0,35.88,0.0,0.04,0.13,2.75,121.0,0.0,1.62,0.38,0.35,0.0,not measured in IFCT 2017
+P030,Kite fish,Mobula kuhlii,Marine Fish,1,98.7,77.61,23.07,0.56,0.0,0.0,1.38,11.02,0.55,28.46,231.0,387.0,59.03,0.0,0.04,0.07,2.5,127.0,0.0,1.52,0.03,0.24,0.0,not measured in IFCT 2017
+P031,Korka,Terapon jarbua,Marine Fish,1,126.2,72.25,23.72,3.36,0.0,0.0,0.73,11.12,1.47,28.55,229.0,349.0,43.3,0.0,0.03,0.17,3.42,316.0,0.0,6.55,0.34,0.63,0.0,not measured in IFCT 2017
+P032,Kulam paarai,Carangoides fulvoguttatus,Marine Fish,1,119.7,73.44,21.62,3.6,0.0,0.0,0.5,15.17,0.52,30.79,244.0,366.0,49.17,0.0,0.06,0.01,1.97,218.0,0.0,3.64,2.45,1.05,0.0,not measured in IFCT 2017
+P033,Maagaa,Polynemus plebeius,Marine Fish,1,87.5,79.23,20.11,0.67,0.0,0.0,0.23,8.42,0.35,30.32,181.0,375.0,52.28,0.0,0.02,0.01,0.73,106.0,0.0,1.76,1.18,1.03,0.0,not measured in IFCT 2017
+P034,Mackerel,Rastrelliger kanagurta,Marine Fish,3,101.1,74.55,21.51,1.53,0.0,0.0,1.46,31.27,0.67,37.46,231.0,309.0,83.01,0.0,0.07,0.1,2.67,100.0,0.0,16.34,0.22,0.71,0.0,not measured in IFCT 2017
+P035,Manda clathi,Naso reticulatus,Marine Fish,1,95.1,76.32,21.27,1.0,0.0,0.0,0.43,11.48,0.37,37.88,320.0,431.0,58.5,0.0,0.03,0.02,2.77,87.58,0.0,1.99,1.46,0.16,0.0,not measured in IFCT 2017
+P036,Matha,Acanthurus mata,Marine Fish,2,93.0,79.81,21.17,0.79,0.0,0.0,0.32,14.02,0.32,40.24,263.0,450.0,62.58,0.0,0.05,0.05,2.37,42.45,0.0,4.99,1.95,0.61,0.0,not measured in IFCT 2017
+P037,Milk fish,Chanos chanos,Marine Fish,1,105.6,72.22,23.66,1.09,0.0,0.0,1.35,29.18,2.43,35.38,292.0,301.0,42.98,0.0,0.05,0.07,5.21,76.51,0.0,3.29,1.2,1.86,0.0,not measured in IFCT 2017
+P038,Moon fish,Mene maculata,Marine Fish,1,125.7,74.21,20.74,4.69,0.0,0.0,1.67,29.18,0.93,37.14,169.0,157.0,65.17,0.0,0.07,0.07,1.83,136.0,0.0,8.94,0.48,1.2,0.0,not measured in IFCT 2017
+P039,Mullet,Mugil cephalus,Marine Fish,3,93.9,76.12,20.23,1.32,0.0,0.0,1.31,35.2,0.45,34.09,222.0,331.0,66.09,0.0,0.05,0.09,2.52,135.0,0.0,18.38,0.31,0.53,0.0,not measured in IFCT 2017
+P040,Mural,Tylosurus crocodilus crocodilus,Marine Fish,1,82.5,78.96,19.04,0.58,0.0,0.0,0.24,8.61,0.71,27.1,224.0,330.0,110.0,0.0,0.06,0.03,2.65,67.24,0.0,1.61,0.86,0.44,0.0,not measured in IFCT 2017
+P041,Myil meen,Istiophorus platypterus,Marine Fish,2,98.0,75.57,22.89,0.56,0.0,0.0,1.2,7.2,0.58,30.08,268.0,365.0,61.96,0.0,0.04,0.04,4.41,119.0,0.0,21.51,0.18,0.53,0.0,not measured in IFCT 2017
+P042,Nalla bontha,Epinephelus sp,Marine Fish,1,87.0,79.32,19.82,0.72,0.0,0.0,0.31,9.04,0.3,29.2,197.0,403.0,57.87,0.0,0.04,0.01,0.56,83.41,0.0,2.4,0.54,0.11,0.0,not measured in IFCT 2017
+P043,Narba,Caranx sexfasciatus,Marine Fish,2,103.3,76.37,21.95,1.6,0.0,0.0,1.11,7.21,0.45,26.33,235.0,384.0,49.51,0.0,0.05,0.04,1.51,153.0,0.0,2.93,0.19,0.9,0.0,not measured in IFCT 2017
+P044,Paarai,Caranx heberi,Marine Fish,1,104.0,75.77,21.58,1.84,0.0,0.0,0.69,13.52,0.45,27.59,284.0,384.0,45.22,0.0,0.03,0.02,2.86,173.0,0.0,3.23,1.4,0.3,0.0,not measured in IFCT 2017
+P045,Padayappa,Canthidermis maculata,Marine Fish,1,86.0,79.18,19.7,0.69,0.0,0.0,0.33,9.83,1.48,28.98,256.0,490.0,33.87,0.0,0.03,0.05,4.53,68.93,0.0,1.46,0.62,0.25,0.0,not measured in IFCT 2017
+P046,Pali kora,Panna microdon,Marine Fish,1,94.2,78.63,19.25,1.81,0.0,0.0,0.42,17.03,0.38,28.0,195.0,364.0,54.85,0.0,0.03,0.05,0.78,126.0,0.0,1.89,0.11,0.44,0.0,not measured in IFCT 2017
+P047,Pambada,Lepturacanthus savala,Marine Fish,2,128.3,74.67,21.95,4.44,0.0,0.0,0.38,16.53,0.41,29.87,170.0,263.0,82.65,0.0,0.04,0.03,1.96,76.49,0.0,2.88,1.15,0.55,0.0,not measured in IFCT 2017
+P048,Pandukopa,Pseudosciaena manchurica,Marine Fish,1,86.0,77.46,19.73,0.65,0.0,0.0,0.47,12.18,0.33,29.15,203.0,427.0,49.15,0.0,0.04,0.02,0.54,262.0,0.0,1.33,0.2,0.47,0.0,not measured in IFCT 2017
+P049,Parava,Lactarius lactarius,Marine Fish,1,111.6,77.19,21.5,2.74,0.0,0.0,3.58,29.12,0.56,32.52,194.0,363.0,84.08,0.0,0.03,0.03,0.98,153.0,0.0,2.56,1.12,0.55,0.0,not measured in IFCT 2017
+P050,Parcus,Psettodes erumei,Marine Fish,1,86.3,79.01,19.87,0.62,0.0,0.0,0.28,21.08,0.33,28.84,218.0,446.0,64.38,0.0,0.04,0.02,0.88,202.0,0.0,1.72,0.57,0.3,0.0,not measured in IFCT 2017
+P051,Parrot fish,Scarus ghobban,Marine Fish,1,89.6,76.84,20.82,0.57,0.0,0.0,0.38,9.21,0.31,28.88,316.0,432.0,51.79,0.0,0.06,0.02,1.89,132.0,0.0,2.47,0.67,0.26,0.0,not measured in IFCT 2017
+P052,Perinkilichai,Pinjalo pinjalo,Marine Fish,1,92.5,78.33,20.89,0.87,0.0,0.0,0.29,7.25,0.36,29.01,236.0,365.0,34.16,0.0,0.08,0.01,1.48,119.0,0.0,1.62,0.36,1.1,0.0,not measured in IFCT 2017
+P053,Phopat,Coryphaena hippurus,Marine Fish,4,101.3,76.42,22.05,1.33,0.0,0.0,0.47,9.32,0.36,32.27,258.0,439.0,36.2,0.0,0.06,0.04,4.28,131.0,0.0,3.52,0.43,0.58,0.0,not measured in IFCT 2017
+P054,Piranha,Pygopristis sp.,Marine Fish,1,131.2,76.15,20.46,5.43,0.0,0.0,0.5,14.85,0.43,23.41,170.0,323.0,38.97,0.0,0.04,0.05,0.97,67.91,0.0,1.05,1.06,0.37,0.0,not measured in IFCT 2017
+P055,"Pomfret, black",Parastromateus niger,Marine Fish,2,123.1,74.43,18.91,4.83,0.0,0.0,0.78,18.1,0.5,28.22,195.0,295.0,69.09,0.0,0.06,0.02,2.61,76.0,0.0,10.55,2.28,0.6,0.0,not measured in IFCT 2017
+P056,"Pomfret, snub nose",Trachinotus blochii,Marine Fish,2,89.6,77.81,21.05,0.46,0.0,0.0,0.41,6.57,0.92,29.85,247.0,483.0,36.1,0.0,0.08,0.05,1.94,77.51,0.0,3.91,0.51,1.54,0.0,not measured in IFCT 2017
+P057,"Pomfret, white",Pampus argenteus,Marine Fish,2,122.6,75.91,19.02,5.12,0.0,0.0,0.31,13.64,0.53,32.2,211.0,255.0,46.09,0.0,0.05,0.03,1.38,130.0,0.0,30.31,0.61,1.26,0.0,not measured in IFCT 2017
+P058,Pranel,Gerres sp.,Marine Fish,1,96.8,79.54,19.69,1.89,0.0,0.0,0.41,21.88,0.55,26.26,166.0,251.0,52.37,0.0,0.04,0.13,3.37,120.0,0.0,1.84,0.54,0.42,0.0,not measured in IFCT 2017
+P059,Pulli paarai,Gnathanodon speciosus,Marine Fish,1,95.4,75.99,20.06,1.55,0.0,0.0,0.35,21.84,0.52,31.12,232.0,335.0,58.56,0.0,0.05,0.04,1.94,101.0,0.0,1.75,1.6,0.82,0.0,not measured in IFCT 2017
+P060,Queen fish,Scomberoides commersonianus,Marine Fish,3,95.6,76.63,20.97,1.17,0.0,0.0,0.49,5.75,0.35,28.1,235.0,440.0,48.93,0.0,0.06,0.04,3.24,118.0,0.0,1.52,0.19,0.4,0.0,not measured in IFCT 2017
+P061,Raai fish,Lobotes surinamensis,Marine Fish,2,102.8,77.14,21.61,1.69,0.0,0.0,0.46,11.09,0.36,21.99,213.0,347.0,47.62,0.0,0.07,0.02,1.63,108.0,0.0,1.15,2.99,0.52,0.0,not measured in IFCT 2017
+P062,Raai vanthu,Epinephelus chlorostigma,Marine Fish,1,98.0,79.95,19.39,2.17,0.0,0.0,0.36,8.72,0.35,27.39,178.0,311.0,50.83,0.0,0.03,0.01,0.72,112.0,0.0,2.87,1.23,0.02,0.0,not measured in IFCT 2017
+P063,Rani,Pink perch,Marine Fish,1,90.1,78.55,18.83,1.49,0.0,0.0,0.87,37.9,0.4,29.91,208.0,335.0,63.17,0.0,0.01,0.0,1.33,75.7,0.0,1.78,1.84,1.65,0.0,not measured in IFCT 2017
+P064,"Ray fish, bow head, spotted",Rhina ancylostoma,Marine Fish,1,83.4,80.3,19.03,0.7,0.0,0.0,0.25,9.64,0.49,19.25,196.0,353.0,105.0,0.0,0.05,0.03,1.99,120.0,0.0,1.97,0.81,0.33,0.0,not measured in IFCT 2017
+P065,Red snapper,Lutjanus argentimaculatus,Marine Fish,1,104.4,76.28,22.79,1.34,0.0,0.0,0.37,8.39,0.34,32.65,204.0,446.0,59.89,0.0,0.02,0.02,3.14,66.93,0.0,4.77,2.32,0.41,0.0,not measured in IFCT 2017
+P066,"Red snapper, small",Priacanthus hamrur,Marine Fish,1,107.8,76.31,21.5,2.3,0.0,0.0,0.57,17.43,0.4,31.03,204.0,327.0,38.97,0.0,0.06,0.03,3.43,172.0,0.0,20.87,3.05,0.85,0.0,not measured in IFCT 2017
+P067,Sadaya,Platax orbicularis,Marine Fish,1,110.4,75.53,20.68,2.97,0.0,0.0,0.47,9.08,0.68,26.27,221.0,360.0,49.41,0.0,0.07,0.38,2.45,125.0,0.0,64.2,1.56,0.52,0.0,not measured in IFCT 2017
+P068,Salmon,Salmo salar,Marine Fish,1,172.3,67.84,20.97,9.86,0.0,0.0,0.98,24.3,0.51,31.18,211.0,345.0,20.25,0.0,0.07,0.06,4.45,150.0,0.0,15.63,0.86,0.58,0.0,not measured in IFCT 2017
+P069,Sangada,Nemipterus japonicus,Marine Fish,1,105.9,78.51,20.26,2.67,0.0,0.0,0.99,7.9,0.32,28.37,211.0,217.0,77.82,0.0,0.01,0.02,0.68,101.0,0.0,3.07,0.92,0.36,0.0,not measured in IFCT 2017
+P070,Sankata parai,Caranx ignobilis,Marine Fish,1,103.7,74.88,21.87,1.68,0.0,0.0,0.99,6.03,0.39,27.53,246.0,379.0,22.33,0.0,0.03,0.06,3.7,181.0,0.0,2.58,0.58,1.07,0.0,not measured in IFCT 2017
+P071,Sardine,Sardinella longiceps,Marine Fish,1,152.2,72.29,17.91,8.99,0.0,0.0,0.83,42.26,0.89,24.39,191.0,228.0,38.49,0.0,0.01,0.06,0.91,140.0,0.0,12.66,3.51,0.38,0.0,not measured in IFCT 2017
+P072,Shark,Carcharhinus sorrah,Marine Fish,2,95.1,72.82,21.6,0.83,0.0,0.0,0.38,8.44,0.46,32.58,263.0,372.0,63.63,0.0,0.03,0.04,2.68,110.0,0.0,1.11,0.18,0.22,0.0,not measured in IFCT 2017
+P073,"Shark, hammer head",Sphyrna mokarran,Marine Fish,1,103.3,74.61,23.4,0.8,0.0,0.0,0.86,7.92,0.4,25.11,200.0,304.0,53.55,0.0,0.02,0.04,2.72,73.11,0.0,20.55,0.58,0.78,0.0,not measured in IFCT 2017
+P074,"Shark, spotted",Stegostoma fasciatum,Marine Fish,1,91.8,78.83,20.95,0.75,0.0,0.0,0.54,8.1,0.55,19.05,179.0,318.0,131.0,0.0,0.05,0.05,1.02,76.56,0.0,12.43,1.23,0.19,0.0,not measured in IFCT 2017
+P075,Shelavu,Sphyraena jello,Marine Fish,4,106.6,74.6,22.46,1.74,0.0,0.0,0.52,11.42,0.42,29.9,251.0,453.0,38.73,0.0,0.05,0.06,2.1,110.0,0.0,24.82,1.77,0.36,0.0,not measured in IFCT 2017
+P076,Silan,Silonia silondia,Marine Fish,1,151.3,70.12,22.72,6.68,0.0,0.0,0.56,28.82,0.58,22.64,163.0,223.0,29.39,0.0,0.02,0.07,1.27,122.0,0.0,3.07,0.18,0.48,0.0,not measured in IFCT 2017
+P077,Silk fish,Beryx sp.,Marine Fish,1,97.5,77.61,20.65,1.53,0.0,0.0,0.3,10.46,0.34,27.13,211.0,440.0,41.57,0.0,0.03,0.04,2.24,169.0,0.0,1.69,0.68,0.72,0.0,not measured in IFCT 2017
+P078,Silver carp,Hypophthalmichthys molitrix,Marine Fish,1,132.6,72.47,21.71,5.17,0.0,0.0,0.58,85.55,0.57,24.97,187.0,249.0,19.6,0.0,0.02,0.02,1.87,136.0,0.0,6.74,0.69,0.6,0.0,not measured in IFCT 2017
+P079,Sole fish,Cynoglossus arel,Marine Fish,1,87.7,80.18,19.05,1.18,0.0,0.0,0.33,47.28,0.17,27.96,123.0,199.0,74.57,0.0,0.01,0.02,0.47,68.89,0.0,9.53,1.12,0.18,0.0,not measured in IFCT 2017
+P080,Stingray,Dasyatis pastinaca,Marine Fish,1,97.5,75.67,23.98,0.68,0.0,0.0,0.74,9.16,0.44,24.61,174.0,270.0,64.14,0.0,0.03,0.02,2.74,214.0,0.0,7.55,0.67,0.28,0.0,not measured in IFCT 2017
+P081,Tarlava,Drepane punctata,Marine Fish,2,98.9,76.76,21.72,1.2,0.0,0.0,0.53,11.68,0.31,30.1,199.0,370.0,67.4,0.0,0.04,0.04,2.13,149.0,0.0,5.32,2.35,0.52,0.0,not measured in IFCT 2017
+P082,Tholam,Plectorhinchus schotaf,Marine Fish,2,103.3,76.2,20.78,2.13,0.0,0.0,0.6,11.4,0.36,26.14,241.0,382.0,28.0,0.0,0.04,0.03,2.74,160.0,0.0,250.0,2.8,0.6,0.0,not measured in IFCT 2017
+P083,Tilapia,Oreochromis niloticus,Marine Fish,1,83.4,79.57,18.48,1.08,0.0,0.0,2.84,99.39,0.88,24.56,184.0,255.0,52.55,0.0,0.02,0.18,1.4,176.0,0.0,17.14,0.85,1.86,0.0,not measured in IFCT 2017
+P084,Tuna,Euthynnus affinis,Marine Fish,5,112.3,72.12,24.5,1.44,0.0,0.0,1.6,9.82,0.69,35.85,292.0,357.0,52.89,0.0,0.06,0.07,4.73,68.24,0.0,16.65,0.11,0.57,0.0,not measured in IFCT 2017
+P085,"Tuna, striped",Katsuwonus pelamis,Marine Fish,1,96.3,77.76,21.28,1.12,0.0,0.0,1.43,6.45,0.46,26.02,209.0,273.0,22.6,0.0,0.07,0.15,5.04,122.0,0.0,21.01,0.65,0.14,0.0,not measured in IFCT 2017
+P086,Valava,Chirocentrus nudus,Marine Fish,1,98.0,77.25,21.8,1.06,0.0,0.0,0.24,37.06,0.42,39.05,229.0,365.0,91.91,0.0,0.13,0.02,0.86,104.0,0.0,1.25,0.25,0.31,0.0,not measured in IFCT 2017
+P087,Vanjaram,Scomberomorus commerson,Marine Fish,2,136.2,72.3,22.28,5.18,0.0,0.0,0.41,9.85,0.74,36.73,302.0,473.0,34.85,0.0,0.03,0.07,3.46,163.0,0.0,81.9,1.57,0.67,0.0,not measured in IFCT 2017
+P088,Vela meen,Aprion virescens,Marine Fish,1,128.3,71.82,22.16,4.34,0.0,0.0,0.64,14.9,0.36,31.93,280.0,387.0,38.15,0.0,0.05,0.04,5.15,97.92,0.0,3.03,0.92,0.44,0.0,not measured in IFCT 2017
+P089,Vora,Siganus javus,Marine Fish,2,100.9,76.94,20.14,2.14,0.0,0.0,0.27,7.64,0.29,32.27,246.0,401.0,43.66,0.0,0.06,0.07,3.72,121.0,0.0,3.2,0.6,0.65,0.0,not measured in IFCT 2017
+P090,Whale shark,Galeocerdo cuvier,Marine Fish,1,95.8,77.59,21.83,0.82,0.0,0.0,0.33,8.32,0.38,20.61,274.0,365.0,116.0,0.0,0.06,0.04,2.9,125.0,0.0,1.97,1.82,0.17,0.0,not measured in IFCT 2017
+P091,Xiphinis,Xiphias gladius,Marine Fish,1,88.4,79.22,19.82,0.88,0.0,0.0,0.54,12.08,0.56,26.38,255.0,306.0,66.21,0.0,0.06,0.05,3.24,65.79,0.0,1.14,0.02,0.76,0.0,not measured in IFCT 2017
+P092,"Eggs, cat fish",Ompok bimaculatus,Marine Fish,1,143.4,69.34,24.68,5.28,0.0,0.0,6.65,61.69,3.11,59.93,445.0,252.0,54.83,0.0,0.0,0.19,1.09,148.0,0.0,2.55,2.8,0.28,0.0,not measured in IFCT 2017
+Q001,Crab,Menippe mercenaria,Marine Shellfish,1,82.0,79.77,10.23,1.41,0.0,0.0,1.1,128.0,0.76,38.04,100.0,171.0,244.0,0.0,0.01,0.1,1.66,120.0,0.0,1.55,0.21,6.33,0.0,not measured in IFCT 2017
+Q002,"Crab, sea",Portunus sanguinolentus,Marine Shellfish,1,67.6,79.67,15.36,0.6,0.0,0.0,0.98,333.0,3.07,80.04,193.0,252.0,313.0,0.0,0.05,0.06,0.97,117.0,0.0,5.02,0.63,2.06,0.0,not measured in IFCT 2017
+Q003,"Lobster, brown",Thenus orientalis,Marine Shellfish,1,69.8,81.48,15.96,0.56,0.0,0.0,0.77,73.06,1.16,45.34,223.0,212.0,140.0,0.0,0.01,0.01,0.63,216.0,0.0,1.83,0.78,1.35,0.0,not measured in IFCT 2017
+Q004,"Lobster, king size",Thenus orientalis,Marine Shellfish,1,89.6,77.77,18.54,0.78,0.0,0.0,0.35,66.44,1.92,50.16,261.0,315.0,191.0,0.0,0.01,0.02,1.87,156.0,0.0,15.02,0.19,0.52,0.0,not measured in IFCT 2017
+Q005,Mud crab,Scylla tranquebarica,Marine Shellfish,1,45.4,83.1,10.0,0.55,0.0,0.0,0.87,201.0,3.3,46.92,153.0,227.0,305.0,0.0,0.06,0.14,0.6,180.0,0.0,8.33,0.94,2.34,0.0,not measured in IFCT 2017
+Q006,Oyster,Crassostrea sp.,Marine Shellfish,1,60.2,82.5,9.51,2.44,0.0,0.0,0.9,126.0,7.35,22.24,170.0,122.0,41.01,0.0,0.06,0.07,0.71,145.0,0.0,25.36,0.82,1.11,0.0,not measured in IFCT 2017
+Q007,"Tiger prawns, brown",Solenocera crassicornis,Marine Shellfish,1,65.2,82.41,14.85,0.56,0.0,0.0,0.73,37.81,1.1,45.93,189.0,141.0,188.0,0.0,0.01,0.03,1.03,104.0,0.0,1.24,1.18,3.04,0.0,not measured in IFCT 2017
+Q008,"Tiger Prawns, orange",Penaeus monodon,Marine Shellfish,1,64.5,81.48,14.25,0.74,0.0,0.0,0.39,71.89,1.16,30.5,191.0,140.0,61.05,0.0,0.03,0.03,1.18,112.0,0.0,6.55,1.62,2.87,0.0,not measured in IFCT 2017
+R001,"Clam, green shell",Perna viridis,Marine Mollusks,1,58.1,80.07,12.14,0.98,0.0,0.0,1.01,121.0,1.64,73.64,128.0,152.0,322.0,0.0,0.06,0.1,0.96,96.0,0.0,29.04,0.86,2.7,0.0,not measured in IFCT 2017
+R002,"Clam, white shell, ribbed",Meretrix meretrix,Marine Mollusks,1,59.8,80.27,11.82,1.34,0.0,0.0,0.94,50.0,1.16,86.64,192.0,245.0,404.0,0.0,0.06,0.11,0.9,108.0,0.0,8.5,2.08,1.21,0.0,not measured in IFCT 2017
+R003,Octopus,Octopus vulgaris,Marine Mollusks,1,79.8,80.45,14.71,1.12,0.0,0.0,1.08,22.1,4.07,50.92,131.0,181.0,230.0,0.0,0.05,0.05,1.18,87.71,0.0,28.0,0.43,0.66,0.0,not measured in IFCT 2017
+R004,"Squid, black",Loligo sp.,Marine Mollusks,1,80.1,80.59,16.1,1.07,0.0,0.0,0.5,22.98,1.24,41.99,173.0,162.0,179.0,0.0,0.02,0.04,1.04,236.0,0.0,2.55,0.57,0.68,0.0,not measured in IFCT 2017
+R005,"Squid, hard shell",Sepia pharaonis,Marine Mollusks,1,76.5,80.52,16.82,0.93,0.0,0.0,0.62,8.73,1.3,35.46,173.0,116.0,99.14,0.0,0.02,0.02,0.65,41.5,0.0,1.93,0.78,0.55,0.0,not measured in IFCT 2017
+R006,"Squid, red",Loligo duvauceli,Marine Mollusks,2,78.6,80.85,16.25,1.44,0.0,0.0,0.26,14.15,0.95,35.74,167.0,134.0,121.0,0.0,0.03,0.02,0.71,101.0,0.0,4.72,1.05,0.47,0.0,not measured in IFCT 2017
+R007,"Squid, white, small",Uroteuthis duvauceli,Marine Mollusks,1,84.4,79.38,17.41,1.15,0.0,0.0,0.39,36.46,1.64,38.53,151.0,134.0,154.0,0.0,0.01,0.03,0.71,118.0,0.0,8.55,0.55,0.66,0.0,not measured in IFCT 2017
+S001,Cat fish,Tandanus tandanus,Fresh Water Fish and Shellfish,2,123.8,77.23,15.86,6.24,0.0,0.0,0.82,21.99,0.71,18.78,157.0,250.0,28.29,0.0,0.01,0.07,1.74,114.0,0.0,13.59,1.37,0.38,0.0,not measured in IFCT 2017
+S002,Catla,Catla catla,Fresh Water Fish and Shellfish,6,94.2,78.43,17.94,2.15,0.0,0.0,1.14,43.53,0.68,25.58,182.0,301.0,36.56,0.0,0.01,0.03,2.21,116.0,0.0,4.32,1.9,2.35,0.0,not measured in IFCT 2017
+S003,Fresh water Eel,Anguilla anguilla,Fresh Water Fish and Shellfish,1,107.8,75.57,20.41,2.63,0.0,0.0,1.54,52.99,2.23,42.5,361.0,450.0,88.67,0.0,0.0,0.31,2.3,106.0,0.0,866.0,3.81,1.8,0.0,not measured in IFCT 2017
+S004,Gold fish,Carassius auratus,Fresh Water Fish and Shellfish,1,94.6,79.07,16.91,2.94,0.0,0.0,0.76,47.89,1.69,21.66,185.0,243.0,27.53,0.0,0.0,0.05,1.86,225.0,0.0,22.95,0.21,2.1,0.0,not measured in IFCT 2017
+S005,Pangas,Pangasianodon hypophthalmus,Fresh Water Fish and Shellfish,2,203.6,68.5,17.12,16.77,0.0,0.0,0.69,11.19,0.69,25.09,179.0,282.0,37.42,0.0,0.0,0.05,1.28,229.0,0.0,14.59,0.2,2.8,0.0,not measured in IFCT 2017
+S006,Rohu,Labeo rohita,Fresh Water Fish and Shellfish,6,102.3,76.34,19.71,2.39,0.0,0.0,1.04,39.37,0.8,26.53,200.0,303.0,35.56,0.0,0.0,0.04,2.33,240.0,0.0,3.87,0.84,2.4,0.0,not measured in IFCT 2017
+S007,Crab,Pachygrapsus sp.,Fresh Water Fish and Shellfish,1,78.2,80.58,13.23,0.89,0.0,0.0,1.1,199.0,2.49,66.77,208.0,286.0,280.0,0.0,0.01,0.11,1.54,202.0,0.0,12.55,1.2,4.85,0.0,not measured in IFCT 2017
+S008,"Prawns, big",Macrobrachium rosenbergii,Fresh Water Fish and Shellfish,3,90.8,77.43,19.24,0.52,0.0,0.0,0.78,48.55,1.44,39.25,237.0,269.0,849.0,0.0,0.0,0.02,1.31,186.0,0.0,3.56,0.35,2.85,0.0,not measured in IFCT 2017
+S009,"Prawns, small",Macrobrachium sp.,Fresh Water Fish and Shellfish,6,71.0,82.58,13.07,0.78,0.0,0.0,0.87,67.99,0.87,26.91,192.0,224.0,77.71,0.0,0.01,0.03,0.54,207.0,0.0,2.78,0.95,1.75,0.0,not measured in IFCT 2017
+S010,Tiger prawns,Macrobrachium sp.,Fresh Water Fish and Shellfish,2,67.9,83.24,14.24,0.66,0.0,0.0,0.84,57.9,1.02,22.94,155.0,149.0,80.77,0.0,0.01,0.04,1.28,216.0,0.0,0.55,1.34,1.65,0.0,not measured in IFCT 2017
+T001,Coconut oil,Cocos nucifera,Edible Oils and Fats,1,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T002,Corn oil,Zea mays,Edible Oils and Fats,1,0.0,0.0,0.0,100.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T003,Cotton seed oil,Gossypium spp.,Edible Oils and Fats,1,0.0,0.0,0.0,99.99,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T004,Gingelly oil,Sesamum indicum,Edible Oils and Fats,6,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T005,Groundnut oil,Arachis hypogaea,Edible Oils and Fats,5,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T006,Mustard oil,Brassica spp.,Edible Oils and Fats,6,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T007,Palm oil,Elaeis guineensis,Edible Oils and Fats,4,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T008,Rice bran oil,Oryza sativa,Edible Oils and Fats,5,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T009,Safflower oil,Carthamus tinctorius,Edible Oils and Fats,1,0.0,0.0,0.0,100.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T010,Safflower oil (blended),,Edible Oils and Fats,4,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T011,Soyabean oil,Glycine max,Edible Oils and Fats,6,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T012,Sunflower oil,Helianthus annuus,Edible Oils and Fats,6,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T013,Ghee,,Edible Oils and Fats,6,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
+T014,Vanaspati,,Edible Oils and Fats,6,0.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not measured in IFCT 2017
